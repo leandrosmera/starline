@@ -1,0 +1,23 @@
+#EXTM3U
+
+//CANAIS ABERTOS
+
+#EXTINF:-1 tvg-id="GLO" tvg-name="GLOBO SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="CANAIS ABERTOS",GLOBO SD
+https://i1.wp.com/araripinaemfoco.net/wp-content/uploads/2018/04/Em-manuten%C3%A7%C3%A3o.jpg?resize=2000%2C1200
+
+#EXTINF:-1 tvg-id="GLO" tvg-name="GLOBO HD" tvg-logo="https://pbs.twimg.com/profile_images/729262861/globo_logo_400x400.png" group-title="CANAIS ABERTOS",GLOBO HD
+https://i1.wp.com/araripinaemfoco.net/wp-content/uploads/2018/04/Em-manuten%C3%A7%C3%A3o.jpg
+
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT SD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="CANAIS ABERTOS",SBT SD 
+https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1173419757_b176000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT HD" tvg-logo="https://4.bp.blogspot.com/-IrcQBf_rBqg/VwPjw9ay_GI/AAAAAAAACTs/0TmrOuhvT3EF_s3wfT5_z1a0upxHvGepA/s1600/sbt-hd.png" group-title="CANAIS ABERTOS",SBT HD
+https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w311111847_b216000_sleng.m3u8
+
+//CANAIS FECHADOS
+//FILMES E SERIES
+
+#EXTINF:-1 tvg-id="FOX" tvg-name="FOX" tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156052/fox.png?v=636446269703630000" group-title="FILMES E SERIES",FOX
+https://lele4.azureedge.net//hls1/fox.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
