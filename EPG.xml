@@ -1,0 +1,3724 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Globo">
+    <display-name lang="pt">Globo</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="SBT">
+    <display-name lang="pt">SBT</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="FOX">
+    <display-name lang="pt">FOX</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <programme start="20181022000000 -0200" stop="20181022000500 -0200" channel="Globo">
+    <title lang="pt">Jornal Globonews - Edição da Meia-Noite - Ao Vivo</title>
+    <desc lang="pt">O que foi destaque ao longo do dia e o que será manchete amanhã(n)</desc>
+    <credits>
+      <actor>Erick Bang</actor>
+    </credits>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181022000500 -0200" stop="20181022020000 -0200" channel="Globo">
+    <title lang="pt">Fantástico</title>
+    <desc lang="pt">Reportagens especiais e as notícias mais importantes da semana, com apresentação de Tadeu Schmidt e Poliana Abritta(n)</desc>
+    <credits>
+      <actor>Poliana Abritta</actor>
+      <actor>Tadeu Schmidt</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181022020000 -0200" stop="20181022020500 -0200" channel="Globo">
+    <title lang="pt">Boletim de Notícias - Ao Vivo</title>
+    <desc lang="pt">Em cinco minutos, a GloboNews apresenta um panorama dos principais acontecimentos no Brasil e no mundo. Nos boletins, notícias que permitem ao assinante estar bem informado durante o final de semana(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181022020500 -0200" stop="20181022023000 -0200" channel="Globo">
+    <title lang="pt">Fernando Gabeira</title>
+    <desc lang="pt">Um mosaico que reflete a imagem do Brasil. Fernando Gabeira vai a lugares diferentes e trata de temas singelos ou espinhosos(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181022023000 -0200" stop="20181022030000 -0200" channel="Globo">
+    <title lang="pt">GloboNews Especial</title>
+    <desc lang="pt">Um tema diferente a cada semana, mas sempre a certeza de uma grande reportagem. Opiniões diferentes sobre questões polêmicas da sociedade ou mesmo detalhes pouco conhecidos de acontecimentos que marcaram a história(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181022030000 -0200" stop="20181022030500 -0200" channel="Globo">
+    <title lang="pt">Boletim de Notícias - Ao Vivo</title>
+    <desc lang="pt">Em cinco minutos, a GloboNews apresenta um panorama dos principais acontecimentos no Brasil e no mundo. Nos boletins, notícias que permitem ao assinante estar bem informado durante o final de semana(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181022030500 -0200" stop="20181022033000 -0200" channel="Globo">
+    <title lang="pt">Cidades e Soluções</title>
+    <desc lang="pt">Iniciativas bem sucedidas no Brasil e no mundo que promovem a qualidade de vida e o uso inteligente dos recursos naturais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181022033000 -0200" stop="20181022040000 -0200" channel="Globo">
+    <title lang="pt">Sem Fronteiras</title>
+    <desc lang="pt">O Sem Fronteiras combina reportagem e análise para mostrar o impacto dos principais assuntos internacionais na vida das pessoas(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181022040000 -0200" stop="20181022040500 -0200" channel="Globo">
+    <title lang="pt">Boletim de Notícias - Ao Vivo</title>
+    <desc lang="pt">Em cinco minutos, a GloboNews apresenta um panorama dos principais acontecimentos no Brasil e no mundo. Nos boletins, notícias que permitem ao assinante estar bem informado durante o final de semana(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181022040500 -0200" stop="20181022050000 -0200" channel="Globo">
+    <title lang="pt">Manhattan Connection</title>
+    <desc lang="pt">Informação diferenciada sobre os principais assuntos da semana, fora do óbvio e sempre com uma dose de irreverência e bom humor(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181022050000 -0200" stop="20181022090000 -0200" channel="Globo">
+    <title lang="pt">Fatos e Versões</title>
+    <desc lang="pt">Cristiana Lôbo recebe, no estúdio, jornalistas renomados de jornais e revistas para detalhar os principais temas da semana em Brasília, revelando bastidores na política, na economia e no Judiciário(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181022090000 -0200" stop="20181022100000 -0200" channel="Globo">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">Chico Pinheiro e Ana Paula Araújo apresentam as primeiras notícias do dia no Brasil e no mundo e repercutem os fatos mais relevantes(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181022100000 -0200" stop="20181022130000 -0200" channel="Globo">
+    <title lang="pt">Jornal GloboNews - Edição das 10h - Ao Vivo</title>
+    <desc lang="pt">Notícias da manhã, debates interativos, previsão do tempo, prestação de serviços e colunas: consumidor, tecnologia, profissões, cultura e as datas marcantes(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181022130000 -0200" stop="20181022160000 -0200" channel="Globo">
+    <title lang="pt">Estúdio i</title>
+    <desc lang="pt">Entretenimento. Artistas e comentaristas discutem as principais notícias do dia. Interatividade com o público(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181022160000 -0200" stop="20181022180000 -0200" channel="Globo">
+    <title lang="pt">Jornal GloboNews - Edição das 16h - Ao Vivo</title>
+    <desc lang="pt">Direto do Estúdio da GloboNews, em São Paulo, o Edição das 16 horas traz as principais notícias da tarde e a repercussão no Brasil e no mundo de todos os assuntos do dia(n)</desc>
+    <credits>
+      <actor>Christiane Pelajo</actor>
+    </credits>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181022180000 -0200" stop="20181022200000 -0200" channel="Globo">
+    <title lang="pt">Jornal GloboNews - Edição das 18h - Ao Vivo</title>
+    <desc lang="pt">Cobertura completa de tudo o que foi destaque ao longo do dia, no Brasil e no Mundo(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181022200000 -0200" stop="20181022220000 -0200" channel="Globo">
+    <title lang="pt">GloboNews em Pauta - Vivo</title>
+    <desc lang="pt">Telejornal diário, com comentaristas que aprofundam as notícias do dia, com um convidado no estúdio. Destaque para política, cenário internacional e cultura(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181022220000 -0200" stop="20181023002000 -0200" channel="Globo">
+    <title lang="pt">Jornal das Dez - Ao Vivo</title>
+    <desc lang="pt">Apresentado ao vivo do RJ, SP e Brasilia, NY e Washington. Comentaristas e correspondentes na América do Sul, Europa e Oriente Médio analisam as notícias(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181023002000 -0200" stop="20181023013500 -0200" channel="Globo">
+    <title lang="pt">Blecaute: A Vida Em Um Suspiro</title>
+    <desc lang="pt">Alicia sobrevive ao ataque neste episódio de Blecaute, mas fica gravemente ferida. Elías, convencido de que Santi Mur é o culpado, diz a Giralt que as câmeras de segurança vão provar a sua inocência(n)</desc>
+    <date>2015</date>
+    <episode-num system="onscreen">E11</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181023013500 -0200" stop="20181023025500 -0200" channel="Globo">
+    <title lang="pt">Blecaute: Dúvida Razoável</title>
+    <desc lang="pt">Pol encontra o cativeiro de Ana neste episódio de Blecaute. Elías explica suas intenções ao convencer Ana a não testemunhar contra ele e promete libertá-la se Alicia não recuperar a consciência(n)</desc>
+    <date>2015</date>
+    <episode-num system="onscreen">E12</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181023025500 -0200" stop="20181023040500 -0200" channel="Globo">
+    <title lang="pt">A Sinfonia do Silêncio: Rafael</title>
+    <desc lang="pt">Julita toma uma difícil decisão. Basílio faz Elena correr riscos e Rafael e Antônio tentam salvá-la. Marta e Antônio discutem e ela pede um favor a Rafael(n)</desc>
+    <credits>
+      <director>Iñaki Peñafiel</director>
+      <actor>Marta Etura</actor>
+      <actor>Eduardo Noriega</actor>
+      <actor>Daniel Grao</actor>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20181023040500 -0200" stop="20181023052000 -0200" channel="Globo">
+    <title lang="pt">A Sinfonia do Silêncio: Antônio</title>
+    <desc lang="pt">Marta consegue recuperar o piano e decide voltar a ter aulas. Elena sofre por conta de Maurício. Hanno pede ajuda a Marta. Chega o dia do casamento de Elena(n)</desc>
+    <credits>
+      <director>Iñaki Peñafiel</director>
+      <actor>Marta Etura</actor>
+      <actor>Eduardo Noriega</actor>
+      <actor>Daniel Grao</actor>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20181023052000 -0200" stop="20181023063500 -0200" channel="Globo">
+    <title lang="pt">Blecaute: A Vida Em Um Suspiro</title>
+    <desc lang="pt">Alicia sobrevive ao ataque neste episódio de Blecaute, mas fica gravemente ferida. Elías, convencido de que Santi Mur é o culpado, diz a Giralt que as câmeras de segurança vão provar a sua inocência(n)</desc>
+    <date>2015</date>
+    <episode-num system="onscreen">E11</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181023063500 -0200" stop="20181023080000 -0200" channel="Globo">
+    <title lang="pt">Blecaute: Dúvida Razoável</title>
+    <desc lang="pt">Pol encontra o cativeiro de Ana neste episódio de Blecaute. Elías explica suas intenções ao convencer Ana a não testemunhar contra ele e promete libertá-la se Alicia não recuperar a consciência(n)</desc>
+    <date>2015</date>
+    <episode-num system="onscreen">E12</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181023080000 -0200" stop="20181023091000 -0200" channel="Globo">
+    <title lang="pt">Blecaute: A Pista Falsa</title>
+    <desc lang="pt">Em Blecaute, dois dias antes de seu desaparecimento, Ana e Charry transferem dinheiro para Bangkok. Giralt descobre que Cortes deu entrada em um albergue(n)</desc>
+    <date>2015</date>
+    <episode-num system="onscreen">E8</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181023091000 -0200" stop="20181023094000 -0200" channel="Globo">
+    <title lang="pt">Brasil Visto de Cima: Do Litoral Ao Agreste Pernambucano Olinda e Caruaru</title>
+    <desc lang="pt">Embarque num emocionante voo pelo Brasil. Brasil Visto de Cima nos mostra imagens incríveis de diversas paisagens urbanas e rurais ao longo do país(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181023094000 -0200" stop="20181023100500 -0200" channel="Globo">
+    <title lang="pt">Aero: Por Trás Da Aviação: Voo no Dassault Falcon 8x e Centro</title>
+    <desc lang="pt">O Aero voa no Dassault Falcon 8X, um dos aviões mais rápidos, para entender as diferenças entre a aviação executiva e comercial. Conhecemos um centro de manutenção de aeronaves a jato e turboélice(n)</desc>
+    <date>2017</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181023100500 -0200" stop="20181023103000 -0200" channel="Globo">
+    <title lang="pt">Mundo Visto de Cima</title>
+    <desc lang="pt">A 10.000 pés de altitude, com uma câmera aérea de alta definição, Richard Mervyn nos oferece uma nova perspectiva do nosso mundo. Em cada episódio visitamos cerca de 25 lugares diferentes do planeta, todos com uma história(n)</desc>
+    <episode-num system="onscreen">S8 E1</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181023103000 -0200" stop="20181023110000 -0200" channel="Globo">
+    <title lang="pt">Brasil Visto de Cima: Parque Nacional das Sempre-Vivas</title>
+    <desc lang="pt">Nesta temporada, Brasil Visto de Cima sobrevoa todas as regiões do país. Lugares famosos e pontos espetaculares ainda pouco conhecidos. Uma viagem para encantar-se com as muitas belezas do Brasil(n)</desc>
+    <episode-num system="onscreen">S5 E12</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181023110000 -0200" stop="20181023113000 -0200" channel="Globo">
+    <title lang="pt">Mundo Museu: Museu Judaico De Berlim</title>
+    <desc lang="pt">Nesse episódio, o Mundo Museu vai até o Jüdisches Museum, o Museu Judaico, em Berlim. Uma incrível viagem no tempo, que mostra a relação entre judeus e não-judeus na Alemanha, assim como os altos e baixos desta relação(n)</desc>
+    <episode-num system="onscreen">S2 E15</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181023113000 -0200" stop="20181023120000 -0200" channel="Globo">
+    <title lang="pt">Mundo Museu: Florença</title>
+    <desc lang="pt">A Galeria da Academia de Belas Artes de Florença guarda alguns dos mais belos exemplos das manifestações artísticas que mudaram para sempre o mundo(n)</desc>
+    <episode-num system="onscreen">S2 E16</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181023120000 -0200" stop="20181023123000 -0200" channel="Globo">
+    <title lang="pt">Escola de Pilotos: Afinação</title>
+    <credits>
+      <director>Belisário Franca</director>
+    </credits>
+    <date>2015</date>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181023123000 -0200" stop="20181023130000 -0200" channel="Globo">
+    <title lang="pt">Dia de Clássico: O Visitante</title>
+    <credits>
+      <director>Guilherme Valiengo</director>
+    </credits>
+    <date>2015</date>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181023130000 -0200" stop="20181023133000 -0200" channel="Globo">
+    <title lang="pt">Sonho e Destino: Bangkok - Parte 1</title>
+    <desc lang="pt">Gisella e Fernando chegam em Bangkok, na Tailândia, neste episódio de Sonho e Destino. O casal visita o templo budista Wat Pho e experimentam a famosa massagem tailandesa(n)</desc>
+    <credits>
+      <director>Fernando de Borthole</director>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181023133000 -0200" stop="20181023140000 -0200" channel="Globo">
+    <title lang="pt">Mundo Visto de Cima</title>
+    <desc lang="pt">A 10.000 pés de altitude, com uma câmera aérea de alta definição, Richard Mervyn nos oferece uma nova perspectiva do nosso mundo. Em cada episódio visitamos cerca de 25 lugares diferentes do planeta(n)</desc>
+    <credits>
+      <director>Richard Mervyn</director>
+    </credits>
+    <date>2012</date>
+    <episode-num system="onscreen">S5 E1</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181023140000 -0200" stop="20181023145000 -0200" channel="Globo">
+    <title lang="pt">Mistérios do Detetive Murdoch: Dilacerado</title>
+    <desc lang="pt">Ele ainda está se adaptando com a vida sem Ogden. Quando um corpo desmembrado é encontrado, Murdoch, que não concorda com os métodos do substituto de Ogden, a procura(n)</desc>
+    <credits>
+      <director>Don McCutcheon</director>
+      <actor>Helene Joy</actor>
+      <actor>Yannick Bisson</actor>
+      <actor>Thomas Craig</actor>
+      <actor>Jonny Harris</actor>
+      <actor>Lachlan Murdoch</actor>
+    </credits>
+    <date>2011</date>
+    <episode-num system="onscreen">S4 E1</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181023145000 -0200" stop="20181023155000 -0200" channel="Globo">
+    <title lang="pt">Poldark - Herói de Guerra: A Volta Para Casa</title>
+    <desc lang="pt">Ross volta para casa sem Dwight. Uma colheita fracassa e incita um tumulto que é reprimido por George. Morwenna recebe a indesejada visita do Rev. Whitworth(n)</desc>
+    <credits>
+      <director>Stephen Woolfenden</director>
+      <actor>Eleanor Tomlinson</actor>
+      <actor>Aidan Turner</actor>
+      <actor>Sean Gilder</actor>
+      <actor>Jack Farthing</actor>
+      <actor>Ellise Chapell</actor>
+      <actor>Jason Squibb</actor>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S3 E3</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181023155000 -0200" stop="20181023171500 -0200" channel="Globo">
+    <title lang="pt">Velvet: Costuras do Amor: A Noite da Rainha</title>
+    <desc lang="pt">Rita e Ana tentam desfazer o mal-entendido às pressas e todos da loja ajudam. Mateo leva Alberto para sua despedida de solteiro, que acaba em confusão(n)</desc>
+    <credits>
+      <director>Jorge Sánchez-Cabezudo</director>
+      <actor>Paula Echevarría</actor>
+      <actor>Miguel Ángel Silvestre</actor>
+      <actor>Aitana Sánchez-Gijón</actor>
+      <actor>Cecilia Freire</actor>
+      <actor>Javier Rey</actor>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S1 E15</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181023171500 -0200" stop="20181023180000 -0200" channel="Globo">
+    <title lang="pt">Senhorita Pólvora: Horas Contadas</title>
+    <desc lang="pt">Dente de Ouro arma uma armadilha para Vicente com o objetivo de atrair Valentina e Miguel. Na busca desesperada pela filha, Guadalupe está prestes a descobrir o esconderijo de Miguel e Valentina(n)</desc>
+    <credits>
+      <director>Chava Cartas</director>
+      <director>Mauricio Cruz</director>
+      <actor>Camila Sodi</actor>
+      <actor>José Maria De Tavira</actor>
+      <actor>Iván Sánchez</actor>
+      <actor>Saúl Lisazo</actor>
+      <actor>Hugo Stiglitz</actor>
+      <actor>José Sefami</actor>
+      <actor>Francisco Vázquez</actor>
+    </credits>
+    <date>2015</date>
+    <episode-num system="onscreen">S1 E60</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20181023180000 -0200" stop="20181023183000 -0200" channel="Globo">
+    <title lang="pt">Brasil Visto de Cima: Costa Branca - Litoral Norte Do Rn</title>
+    <desc lang="pt">Embarque num emocionante voo pelo Brasil. Brasil Visto de Cima nos mostra imagens incríveis de diversas paisagens urbanas e rurais ao longo do país(n)</desc>
+    <episode-num system="onscreen">S2 E25</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181023183000 -0200" stop="20181023190000 -0200" channel="Globo">
+    <title lang="pt">Fora da Caixa: Influenciadores Digitais</title>
+    <desc lang="pt">Estrelas da era dos Influenciadores Digitais, Julia Tolezano, a Jout Jout, e Bruno Rocha, o Hugo Gloss, contam como construíram suas audiências com humor, estratégia e proximidade com o público(n)</desc>
+    <credits>
+      <director>João Pedro Januário</director>
+      <director>Benedita Casé Zerbini</director>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181023190000 -0200" stop="20181023193000 -0200" channel="Globo">
+    <title lang="pt">América do Sul Sobre Rodas: A Inóspita Argentina</title>
+    <desc lang="pt">Através de uma nova aventura, dessa vez em uma road trip, o casal de aventureiros Max Fercondini e Amanda Richter desbravaram a América do Sul(n)</desc>
+    <credits>
+      <director>Max Fercondini</director>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181023193000 -0200" stop="20181023200000 -0200" channel="Globo">
+    <title lang="pt">Tá Na Hora Do Café: Itália</title>
+    <desc lang="pt">Paula Varejão vai até Veneza conhecer o primeiro café da Europa. Em Milão, a apresentadora mostra a preocupação dos italianos com o design. Em Florença, Paula visita a fábrica da principal marca de máquinas de expresso do mundo(n)</desc>
+    <credits>
+      <director>Rafael De Paula Rodrigues</director>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181023200000 -0200" stop="20181023203000 -0200" channel="Globo">
+    <title lang="pt">Aero: Por Trás Da Aviação: Voo no Dassault Falcon 8x e Centro</title>
+    <desc lang="pt">O Aero voa no Dassault Falcon 8X, um dos aviões mais rápidos, para entender as diferenças entre a aviação executiva e comercial. Conhecemos um centro de manutenção de aeronaves a jato e turboélice(n)</desc>
+    <date>2017</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181023203000 -0200" stop="20181023210000 -0200" channel="Globo">
+    <title lang="pt">Encuentros en Brasil</title>
+    <desc lang="pt">Neste episódio, a chilena Francisca Valenzuela visita Manaus para conhecer o Amazonas, explorar a cultura e os pratos locais(n)</desc>
+    <credits>
+      <director>Luciano Oreggia</director>
+      <actor>Francisca Valenzuela</actor>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181023210000 -0200" stop="20181023213000 -0200" channel="Globo">
+    <title lang="pt">Destino Certo: Quase Locais</title>
+    <desc lang="pt">A cada episódio, o programa comandado pela Mel Fronckowiak mostra uma lista com atividades e passeios mais impressionantes que os viajantes podem fazer pelas cidades escolhidas nos seus roteiros(n)</desc>
+    <credits>
+      <director>Jorge Nassaralla</director>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S3 E6</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181023213000 -0200" stop="20181023220000 -0200" channel="Globo">
+    <title lang="pt">Mundo Visto de Cima</title>
+    <desc lang="pt">A 10.000 pés de altitude, com uma câmera aérea de alta definição, Richard Mervyn nos oferece uma nova perspectiva do nosso mundo. Em cada episódio visitamos cerca de 25 lugares diferentes do planeta, todos com uma história(n)</desc>
+    <episode-num system="onscreen">S8 E2</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181023220000 -0200" stop="20181023223000 -0200" channel="Globo">
+    <title lang="pt">Brasil Visto de Cima: Serro</title>
+    <desc lang="pt">Nesta temporada, Brasil Visto de Cima sobrevoa todas as regiões do país. Lugares famosos e pontos espetaculares ainda pouco conhecidos. Uma viagem para encantar-se com as muitas belezas do Brasil(n)</desc>
+    <episode-num system="onscreen">S5 E13</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181023223000 -0200" stop="20181023230000 -0200" channel="Globo">
+    <title lang="pt">Brasil Visto de Cima: Parque Estadual do Guartelá e Região 4ª</title>
+    <desc lang="pt">Nesta temporada, Brasil Visto de Cima sobrevoa todas as regiões do país. Lugares famosos e pontos espetaculares ainda pouco conhecidos. Uma viagem para encantar-se com as muitas belezas do Brasil(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181023230000 -0200" stop="20181024000000 -0200" channel="Globo">
+    <title lang="pt">Velvet: Costuras do Amor: Contagem Regressiva</title>
+    <desc lang="pt">Chega o dia do casamento e Cristina descobre do sumiço de seu vestido, mas fica feliz com a solução dada por Raul. Alberto recebe uma carta de seu pai(n)</desc>
+    <credits>
+      <director>Carlos Sedes</director>
+    </credits>
+    <date>2013</date>
+    <episode-num system="onscreen">S1 E16</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181024000000 -0200" stop="20181024000500 -0200" channel="Globo">
+    <title lang="pt">Jornal Globonews - Edição da Meia-Noite - Ao Vivo</title>
+    <desc lang="pt">O que foi destaque ao longo do dia e o que será manchete amanhã(n)</desc>
+    <credits>
+      <actor>Erick Bang</actor>
+    </credits>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181024000500 -0200" stop="20181024020000 -0200" channel="Globo">
+    <title lang="pt">Fantástico</title>
+    <desc lang="pt">Reportagens especiais e as notícias mais importantes da semana, com apresentação de Tadeu Schmidt e Poliana Abritta(n)</desc>
+    <credits>
+      <actor>Poliana Abritta</actor>
+      <actor>Tadeu Schmidt</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181024020000 -0200" stop="20181024020500 -0200" channel="Globo">
+    <title lang="pt">Boletim de Notícias - Ao Vivo</title>
+    <desc lang="pt">Em cinco minutos, a GloboNews apresenta um panorama dos principais acontecimentos no Brasil e no mundo. Nos boletins, notícias que permitem ao assinante estar bem informado durante o final de semana(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181024020500 -0200" stop="20181024023000 -0200" channel="Globo">
+    <title lang="pt">Fernando Gabeira</title>
+    <desc lang="pt">Um mosaico que reflete a imagem do Brasil. Fernando Gabeira vai a lugares diferentes e trata de temas singelos ou espinhosos(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181024023000 -0200" stop="20181024030000 -0200" channel="Globo">
+    <title lang="pt">GloboNews Especial</title>
+    <desc lang="pt">Um tema diferente a cada semana, mas sempre a certeza de uma grande reportagem. Opiniões diferentes sobre questões polêmicas da sociedade ou mesmo detalhes pouco conhecidos de acontecimentos que marcaram a história(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181024030000 -0200" stop="20181024030500 -0200" channel="Globo">
+    <title lang="pt">Boletim de Notícias - Ao Vivo</title>
+    <desc lang="pt">Em cinco minutos, a GloboNews apresenta um panorama dos principais acontecimentos no Brasil e no mundo. Nos boletins, notícias que permitem ao assinante estar bem informado durante o final de semana(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181024030500 -0200" stop="20181024033000 -0200" channel="Globo">
+    <title lang="pt">Cidades e Soluções</title>
+    <desc lang="pt">Iniciativas bem sucedidas no Brasil e no mundo que promovem a qualidade de vida e o uso inteligente dos recursos naturais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181024033000 -0200" stop="20181024040000 -0200" channel="Globo">
+    <title lang="pt">Sem Fronteiras</title>
+    <desc lang="pt">O Sem Fronteiras combina reportagem e análise para mostrar o impacto dos principais assuntos internacionais na vida das pessoas(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181024040000 -0200" stop="20181024040500 -0200" channel="Globo">
+    <title lang="pt">Boletim de Notícias - Ao Vivo</title>
+    <desc lang="pt">Em cinco minutos, a GloboNews apresenta um panorama dos principais acontecimentos no Brasil e no mundo. Nos boletins, notícias que permitem ao assinante estar bem informado durante o final de semana(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181024040500 -0200" stop="20181024050000 -0200" channel="Globo">
+    <title lang="pt">Manhattan Connection</title>
+    <desc lang="pt">Informação diferenciada sobre os principais assuntos da semana, fora do óbvio e sempre com uma dose de irreverência e bom humor(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181024050000 -0200" stop="20181024090000 -0200" channel="Globo">
+    <title lang="pt">Fatos e Versões</title>
+    <desc lang="pt">Cristiana Lôbo recebe, no estúdio, jornalistas renomados de jornais e revistas para detalhar os principais temas da semana em Brasília, revelando bastidores na política, na economia e no Judiciário(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181024090000 -0200" stop="20181024100000 -0200" channel="Globo">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">Chico Pinheiro e Ana Paula Araújo apresentam as primeiras notícias do dia no Brasil e no mundo e repercutem os fatos mais relevantes(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181024100000 -0200" stop="20181024130000 -0200" channel="Globo">
+    <title lang="pt">Jornal GloboNews - Edição das 10h - Ao Vivo</title>
+    <desc lang="pt">Notícias da manhã, debates interativos, previsão do tempo, prestação de serviços e colunas: consumidor, tecnologia, profissões, cultura e as datas marcantes(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181024130000 -0200" stop="20181024160000 -0200" channel="Globo">
+    <title lang="pt">Estúdio i</title>
+    <desc lang="pt">Entretenimento. Artistas e comentaristas discutem as principais notícias do dia. Interatividade com o público(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181024160000 -0200" stop="20181024180000 -0200" channel="Globo">
+    <title lang="pt">Jornal GloboNews - Edição das 16h - Ao Vivo</title>
+    <desc lang="pt">Direto do Estúdio da GloboNews, em São Paulo, o Edição das 16 horas traz as principais notícias da tarde e a repercussão no Brasil e no mundo de todos os assuntos do dia(n)</desc>
+    <credits>
+      <actor>Christiane Pelajo</actor>
+    </credits>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181024180000 -0200" stop="20181024200000 -0200" channel="Globo">
+    <title lang="pt">Jornal GloboNews - Edição das 18h - Ao Vivo</title>
+    <desc lang="pt">Cobertura completa de tudo o que foi destaque ao longo do dia, no Brasil e no Mundo(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181024200000 -0200" stop="20181024220000 -0200" channel="Globo">
+    <title lang="pt">GloboNews em Pauta - Vivo</title>
+    <desc lang="pt">Telejornal diário, com comentaristas que aprofundam as notícias do dia, com um convidado no estúdio. Destaque para política, cenário internacional e cultura(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181024220000 -0200" stop="20181025002000 -0200" channel="Globo">
+    <title lang="pt">Jornal das Dez - Ao Vivo</title>
+    <desc lang="pt">Apresentado ao vivo do RJ, SP e Brasilia, NY e Washington. Comentaristas e correspondentes na América do Sul, Europa e Oriente Médio analisam as notícias(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181025002000 -0200" stop="20181025013500 -0200" channel="Globo">
+    <title lang="pt">Blecaute: A Vida Em Um Suspiro</title>
+    <desc lang="pt">Alicia sobrevive ao ataque neste episódio de Blecaute, mas fica gravemente ferida. Elías, convencido de que Santi Mur é o culpado, diz a Giralt que as câmeras de segurança vão provar a sua inocência(n)</desc>
+    <date>2015</date>
+    <episode-num system="onscreen">E11</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181025013500 -0200" stop="20181025025500 -0200" channel="Globo">
+    <title lang="pt">Blecaute: Dúvida Razoável</title>
+    <desc lang="pt">Pol encontra o cativeiro de Ana neste episódio de Blecaute. Elías explica suas intenções ao convencer Ana a não testemunhar contra ele e promete libertá-la se Alicia não recuperar a consciência(n)</desc>
+    <date>2015</date>
+    <episode-num system="onscreen">E12</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181025025500 -0200" stop="20181025040500 -0200" channel="Globo">
+    <title lang="pt">A Sinfonia do Silêncio: Rafael</title>
+    <desc lang="pt">Julita toma uma difícil decisão. Basílio faz Elena correr riscos e Rafael e Antônio tentam salvá-la. Marta e Antônio discutem e ela pede um favor a Rafael(n)</desc>
+    <credits>
+      <director>Iñaki Peñafiel</director>
+      <actor>Marta Etura</actor>
+      <actor>Eduardo Noriega</actor>
+      <actor>Daniel Grao</actor>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20181025040500 -0200" stop="20181025052000 -0200" channel="Globo">
+    <title lang="pt">A Sinfonia do Silêncio: Antônio</title>
+    <desc lang="pt">Marta consegue recuperar o piano e decide voltar a ter aulas. Elena sofre por conta de Maurício. Hanno pede ajuda a Marta. Chega o dia do casamento de Elena(n)</desc>
+    <credits>
+      <director>Iñaki Peñafiel</director>
+      <actor>Marta Etura</actor>
+      <actor>Eduardo Noriega</actor>
+      <actor>Daniel Grao</actor>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20181025052000 -0200" stop="20181025063500 -0200" channel="Globo">
+    <title lang="pt">Blecaute: A Vida Em Um Suspiro</title>
+    <desc lang="pt">Alicia sobrevive ao ataque neste episódio de Blecaute, mas fica gravemente ferida. Elías, convencido de que Santi Mur é o culpado, diz a Giralt que as câmeras de segurança vão provar a sua inocência(n)</desc>
+    <date>2015</date>
+    <episode-num system="onscreen">E11</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181025063500 -0200" stop="20181025080000 -0200" channel="Globo">
+    <title lang="pt">Blecaute: Dúvida Razoável</title>
+    <desc lang="pt">Pol encontra o cativeiro de Ana neste episódio de Blecaute. Elías explica suas intenções ao convencer Ana a não testemunhar contra ele e promete libertá-la se Alicia não recuperar a consciência(n)</desc>
+    <date>2015</date>
+    <episode-num system="onscreen">E12</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181025080000 -0200" stop="20181025091000 -0200" channel="Globo">
+    <title lang="pt">Blecaute: A Pista Falsa</title>
+    <desc lang="pt">Em Blecaute, dois dias antes de seu desaparecimento, Ana e Charry transferem dinheiro para Bangkok. Giralt descobre que Cortes deu entrada em um albergue(n)</desc>
+    <date>2015</date>
+    <episode-num system="onscreen">E8</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181025091000 -0200" stop="20181025094000 -0200" channel="Globo">
+    <title lang="pt">Brasil Visto de Cima: Do Litoral Ao Agreste Pernambucano Olinda e Caruaru</title>
+    <desc lang="pt">Embarque num emocionante voo pelo Brasil. Brasil Visto de Cima nos mostra imagens incríveis de diversas paisagens urbanas e rurais ao longo do país(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181025094000 -0200" stop="20181025100500 -0200" channel="Globo">
+    <title lang="pt">Aero: Por Trás Da Aviação: Voo no Dassault Falcon 8x e Centro</title>
+    <desc lang="pt">O Aero voa no Dassault Falcon 8X, um dos aviões mais rápidos, para entender as diferenças entre a aviação executiva e comercial. Conhecemos um centro de manutenção de aeronaves a jato e turboélice(n)</desc>
+    <date>2017</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181025100500 -0200" stop="20181025103000 -0200" channel="Globo">
+    <title lang="pt">Mundo Visto de Cima</title>
+    <desc lang="pt">A 10.000 pés de altitude, com uma câmera aérea de alta definição, Richard Mervyn nos oferece uma nova perspectiva do nosso mundo. Em cada episódio visitamos cerca de 25 lugares diferentes do planeta, todos com uma história(n)</desc>
+    <episode-num system="onscreen">S8 E1</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181025103000 -0200" stop="20181025110000 -0200" channel="Globo">
+    <title lang="pt">Brasil Visto de Cima: Parque Nacional das Sempre-Vivas</title>
+    <desc lang="pt">Nesta temporada, Brasil Visto de Cima sobrevoa todas as regiões do país. Lugares famosos e pontos espetaculares ainda pouco conhecidos. Uma viagem para encantar-se com as muitas belezas do Brasil(n)</desc>
+    <episode-num system="onscreen">S5 E12</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181025110000 -0200" stop="20181025113000 -0200" channel="Globo">
+    <title lang="pt">Mundo Museu: Museu Judaico De Berlim</title>
+    <desc lang="pt">Nesse episódio, o Mundo Museu vai até o Jüdisches Museum, o Museu Judaico, em Berlim. Uma incrível viagem no tempo, que mostra a relação entre judeus e não-judeus na Alemanha, assim como os altos e baixos desta relação(n)</desc>
+    <episode-num system="onscreen">S2 E15</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181025113000 -0200" stop="20181025120000 -0200" channel="Globo">
+    <title lang="pt">Mundo Museu: Florença</title>
+    <desc lang="pt">A Galeria da Academia de Belas Artes de Florença guarda alguns dos mais belos exemplos das manifestações artísticas que mudaram para sempre o mundo(n)</desc>
+    <episode-num system="onscreen">S2 E16</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181025120000 -0200" stop="20181025123000 -0200" channel="Globo">
+    <title lang="pt">Escola de Pilotos: Afinação</title>
+    <credits>
+      <director>Belisário Franca</director>
+    </credits>
+    <date>2015</date>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181025123000 -0200" stop="20181025130000 -0200" channel="Globo">
+    <title lang="pt">Dia de Clássico: O Visitante</title>
+    <credits>
+      <director>Guilherme Valiengo</director>
+    </credits>
+    <date>2015</date>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181025130000 -0200" stop="20181025133000 -0200" channel="Globo">
+    <title lang="pt">Sonho e Destino: Bangkok - Parte 1</title>
+    <desc lang="pt">Gisella e Fernando chegam em Bangkok, na Tailândia, neste episódio de Sonho e Destino. O casal visita o templo budista Wat Pho e experimentam a famosa massagem tailandesa(n)</desc>
+    <credits>
+      <director>Fernando de Borthole</director>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181025133000 -0200" stop="20181025140000 -0200" channel="Globo">
+    <title lang="pt">Mundo Visto de Cima</title>
+    <desc lang="pt">A 10.000 pés de altitude, com uma câmera aérea de alta definição, Richard Mervyn nos oferece uma nova perspectiva do nosso mundo. Em cada episódio visitamos cerca de 25 lugares diferentes do planeta(n)</desc>
+    <credits>
+      <director>Richard Mervyn</director>
+    </credits>
+    <date>2012</date>
+    <episode-num system="onscreen">S5 E1</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181025140000 -0200" stop="20181025145000 -0200" channel="Globo">
+    <title lang="pt">Mistérios do Detetive Murdoch: Dilacerado</title>
+    <desc lang="pt">Ele ainda está se adaptando com a vida sem Ogden. Quando um corpo desmembrado é encontrado, Murdoch, que não concorda com os métodos do substituto de Ogden, a procura(n)</desc>
+    <credits>
+      <director>Don McCutcheon</director>
+      <actor>Helene Joy</actor>
+      <actor>Yannick Bisson</actor>
+      <actor>Thomas Craig</actor>
+      <actor>Jonny Harris</actor>
+      <actor>Lachlan Murdoch</actor>
+    </credits>
+    <date>2011</date>
+    <episode-num system="onscreen">S4 E1</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181025145000 -0200" stop="20181025155000 -0200" channel="Globo">
+    <title lang="pt">Poldark - Herói de Guerra: A Volta Para Casa</title>
+    <desc lang="pt">Ross volta para casa sem Dwight. Uma colheita fracassa e incita um tumulto que é reprimido por George. Morwenna recebe a indesejada visita do Rev. Whitworth(n)</desc>
+    <credits>
+      <director>Stephen Woolfenden</director>
+      <actor>Eleanor Tomlinson</actor>
+      <actor>Aidan Turner</actor>
+      <actor>Sean Gilder</actor>
+      <actor>Jack Farthing</actor>
+      <actor>Ellise Chapell</actor>
+      <actor>Jason Squibb</actor>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S3 E3</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181025155000 -0200" stop="20181025171500 -0200" channel="Globo">
+    <title lang="pt">Velvet: Costuras do Amor: A Noite da Rainha</title>
+    <desc lang="pt">Rita e Ana tentam desfazer o mal-entendido às pressas e todos da loja ajudam. Mateo leva Alberto para sua despedida de solteiro, que acaba em confusão(n)</desc>
+    <credits>
+      <director>Jorge Sánchez-Cabezudo</director>
+      <actor>Paula Echevarría</actor>
+      <actor>Miguel Ángel Silvestre</actor>
+      <actor>Aitana Sánchez-Gijón</actor>
+      <actor>Cecilia Freire</actor>
+      <actor>Javier Rey</actor>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S1 E15</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181025171500 -0200" stop="20181025180000 -0200" channel="Globo">
+    <title lang="pt">Senhorita Pólvora: Horas Contadas</title>
+    <desc lang="pt">Dente de Ouro arma uma armadilha para Vicente com o objetivo de atrair Valentina e Miguel. Na busca desesperada pela filha, Guadalupe está prestes a descobrir o esconderijo de Miguel e Valentina(n)</desc>
+    <credits>
+      <director>Chava Cartas</director>
+      <director>Mauricio Cruz</director>
+      <actor>Camila Sodi</actor>
+      <actor>José Maria De Tavira</actor>
+      <actor>Iván Sánchez</actor>
+      <actor>Saúl Lisazo</actor>
+      <actor>Hugo Stiglitz</actor>
+      <actor>José Sefami</actor>
+      <actor>Francisco Vázquez</actor>
+    </credits>
+    <date>2015</date>
+    <episode-num system="onscreen">S1 E60</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20181025180000 -0200" stop="20181025183000 -0200" channel="Globo">
+    <title lang="pt">Brasil Visto de Cima: Costa Branca - Litoral Norte Do Rn</title>
+    <desc lang="pt">Embarque num emocionante voo pelo Brasil. Brasil Visto de Cima nos mostra imagens incríveis de diversas paisagens urbanas e rurais ao longo do país(n)</desc>
+    <episode-num system="onscreen">S2 E25</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181025183000 -0200" stop="20181025190000 -0200" channel="Globo">
+    <title lang="pt">Fora da Caixa: Influenciadores Digitais</title>
+    <desc lang="pt">Estrelas da era dos Influenciadores Digitais, Julia Tolezano, a Jout Jout, e Bruno Rocha, o Hugo Gloss, contam como construíram suas audiências com humor, estratégia e proximidade com o público(n)</desc>
+    <credits>
+      <director>João Pedro Januário</director>
+      <director>Benedita Casé Zerbini</director>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181025190000 -0200" stop="20181025193000 -0200" channel="Globo">
+    <title lang="pt">América do Sul Sobre Rodas: A Inóspita Argentina</title>
+    <desc lang="pt">Através de uma nova aventura, dessa vez em uma road trip, o casal de aventureiros Max Fercondini e Amanda Richter desbravaram a América do Sul(n)</desc>
+    <credits>
+      <director>Max Fercondini</director>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181025193000 -0200" stop="20181025200000 -0200" channel="Globo">
+    <title lang="pt">Tá Na Hora Do Café: Itália</title>
+    <desc lang="pt">Paula Varejão vai até Veneza conhecer o primeiro café da Europa. Em Milão, a apresentadora mostra a preocupação dos italianos com o design. Em Florença, Paula visita a fábrica da principal marca de máquinas de expresso do mundo(n)</desc>
+    <credits>
+      <director>Rafael De Paula Rodrigues</director>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181025200000 -0200" stop="20181025203000 -0200" channel="Globo">
+    <title lang="pt">Aero: Por Trás Da Aviação: Voo no Dassault Falcon 8x e Centro</title>
+    <desc lang="pt">O Aero voa no Dassault Falcon 8X, um dos aviões mais rápidos, para entender as diferenças entre a aviação executiva e comercial. Conhecemos um centro de manutenção de aeronaves a jato e turboélice(n)</desc>
+    <date>2017</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181025203000 -0200" stop="20181025210000 -0200" channel="Globo">
+    <title lang="pt">Encuentros en Brasil</title>
+    <desc lang="pt">Neste episódio, a chilena Francisca Valenzuela visita Manaus para conhecer o Amazonas, explorar a cultura e os pratos locais(n)</desc>
+    <credits>
+      <director>Luciano Oreggia</director>
+      <actor>Francisca Valenzuela</actor>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181025210000 -0200" stop="20181025213000 -0200" channel="Globo">
+    <title lang="pt">Destino Certo: Quase Locais</title>
+    <desc lang="pt">A cada episódio, o programa comandado pela Mel Fronckowiak mostra uma lista com atividades e passeios mais impressionantes que os viajantes podem fazer pelas cidades escolhidas nos seus roteiros(n)</desc>
+    <credits>
+      <director>Jorge Nassaralla</director>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S3 E6</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181025213000 -0200" stop="20181025220000 -0200" channel="Globo">
+    <title lang="pt">Mundo Visto de Cima</title>
+    <desc lang="pt">A 10.000 pés de altitude, com uma câmera aérea de alta definição, Richard Mervyn nos oferece uma nova perspectiva do nosso mundo. Em cada episódio visitamos cerca de 25 lugares diferentes do planeta, todos com uma história(n)</desc>
+    <episode-num system="onscreen">S8 E2</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181025220000 -0200" stop="20181025223000 -0200" channel="Globo">
+    <title lang="pt">Brasil Visto de Cima: Serro</title>
+    <desc lang="pt">Nesta temporada, Brasil Visto de Cima sobrevoa todas as regiões do país. Lugares famosos e pontos espetaculares ainda pouco conhecidos. Uma viagem para encantar-se com as muitas belezas do Brasil(n)</desc>
+    <episode-num system="onscreen">S5 E13</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181025223000 -0200" stop="20181025230000 -0200" channel="Globo">
+    <title lang="pt">Brasil Visto de Cima: Parque Estadual do Guartelá e Região 4ª</title>
+    <desc lang="pt">Nesta temporada, Brasil Visto de Cima sobrevoa todas as regiões do país. Lugares famosos e pontos espetaculares ainda pouco conhecidos. Uma viagem para encantar-se com as muitas belezas do Brasil(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181025230000 -0200" stop="20181026010000 -0200" channel="Globo">
+    <title lang="pt">Velvet: Costuras do Amor: Contagem Regressiva</title>
+    <desc lang="pt">Chega o dia do casamento e Cristina descobre do sumiço de seu vestido, mas fica feliz com a solução dada por Raul. Alberto recebe uma carta de seu pai(n)</desc>
+    <credits>
+      <director>Carlos Sedes</director>
+    </credits>
+    <date>2013</date>
+    <episode-num system="onscreen">S1 E16</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181026010000 -0200" stop="20181026022000 -0200" channel="Globo">
+    <title lang="pt">Sessão de Gala</title>
+    <desc lang="pt">Uma das mais tradicionais sessões de cinema da Rede Globo, apresentando longas-metragens que avançam pela madrugada das segundas. Normalmente apresenta filmes clássicos, premiados, voltados para o drama(n)</desc>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20181026022000 -0200" stop="20181026040000 -0200" channel="Globo">
+    <title lang="pt">Corujão</title>
+    <desc lang="pt">Sessão de filmes, séries e desenhos das madrugadas da Globo(n)</desc>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20181026040000 -0200" stop="20181026060000 -0200" channel="Globo">
+    <title lang="pt">Hora Um</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Monalisa Perrone(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181026060000 -0200" stop="20181026073000 -0200" channel="Globo">
+    <title lang="pt">Bom Dia São Paulo</title>
+    <desc lang="pt">O telejornal traz as primeiras notícias do dia no seu estado, com entrevistas, acontecimentos, previsão do tempo, trânsito e resultados da última rodada esportiva entre outras informações(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181026073000 -0200" stop="20181026085000 -0200" channel="Globo">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">Chico Pinheiro e Ana Paula Araújo apresentam as primeiras notícias do dia no Brasil e no mundo e repercutem os fatos mais relevantes(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181026085000 -0200" stop="20181026101500 -0200" channel="Globo">
+    <title lang="pt">Mais Você</title>
+    <desc lang="pt">Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181026101500 -0200" stop="20181026105000 -0200" channel="Globo">
+    <title lang="pt">Bem Estar</title>
+    <desc lang="pt">Veja informações sobre saúde e qualidade de vida. Apresentado por Mariana Ferrão e Fernando Rocha, o programa tem participação de médicos e de especialistas(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181026105000 -0200" stop="20181026120000 -0200" channel="Globo">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+    <desc lang="pt">A apresentadora Fátima Bernardes comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão(n)</desc>
+    <credits>
+      <director>Guel Arraes</director>
+      <director>Fabrício Mamberti</director>
+    </credits>
+    <date>2012</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181026120000 -0200" stop="20181026123500 -0200" channel="Globo">
+    <title lang="pt">SP1</title>
+    <desc lang="pt">César Tralli mostra o que acontece na sua região, com prestação de serviço, boletins de trânsito e a previsão do tempo(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181026123500 -0200" stop="20181026130000 -0200" channel="Globo">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">O Globo Esporte atualiza o noticiário esportivo do dia com os destaques do Brasil e do mundo(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181026130000 -0200" stop="20181026132000 -0200" channel="Globo">
+    <title lang="pt">Horário Político</title>
+    <desc lang="pt">Horário Eleitoral obrigatório(n)</desc>
+    <date>2018</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181026132000 -0200" stop="20181026140000 -0200" channel="Globo">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Sandra Annenberg e Dony De Nuccio(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181026140000 -0200" stop="20181026150000 -0200" channel="Globo">
+    <title lang="pt">Vídeo Show</title>
+    <desc lang="pt">Confira os bastidores da televisão brasileira e as principais notícias sobre o mundo dos astros e das estrelas da Globo(n)</desc>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20181026150000 -0200" stop="20181026164000 -0200" channel="Globo">
+    <title lang="pt">Sessão da Tarde</title>
+    <desc lang="pt">A atração estreou em 1981 e apresenta longas-metragens de sucesso, em sua maioria de apelo infanto-juvenil(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181026164000 -0200" stop="20181026174500 -0200" channel="Globo">
+    <title lang="pt">Vale a Pena Ver de Novo: Belíssima</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <credits>
+      <director>Denise Saraceni</director>
+      <actor>Glória Pires</actor>
+      <actor>Tony Ramos</actor>
+      <actor>Fernanda Montenegro</actor>
+      <actor>Marcello Antony</actor>
+    </credits>
+    <date>2005</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181026174500 -0200" stop="20181026182000 -0200" channel="Globo">
+    <title lang="pt">Malhação: Vidas Brasileiras</title>
+    <desc lang="pt">A trama inovadora vai investigar, a cada quinzena, o drama pessoal de um aluno. Entre as questões levantadas, estão: a busca pela identidade, machismo, desemprego, questões familiares, idealização do corpo, entre outros(n)</desc>
+    <credits>
+      <director>Natalia Grimberg</director>
+      <actor>Guta Stresser</actor>
+      <actor>Ana Beatriz Nogueira</actor>
+      <actor>Luis Gustavo</actor>
+      <actor>Felipe Rocha</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20181026182000 -0200" stop="20181026190500 -0200" channel="Globo">
+    <title lang="pt">Espelho da Vida</title>
+    <desc lang="pt">Espelho da Vida apresenta uma trama de amor e mistério que ultrapassa as barreiras do tempo e do espaço ao se desenrolar em duas épocas distintas concomitantemente(n)</desc>
+    <credits>
+      <director>Pedro Vasconcelos</director>
+      <actor>Vitória Strada</actor>
+      <actor>João Vicente de Castro</actor>
+      <actor>Alinne Moraes</actor>
+      <actor>Rafael Cardoso</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20181026190500 -0200" stop="20181026193000 -0200" channel="Globo">
+    <title lang="pt">SP2</title>
+    <desc lang="pt">Telejornal que traz as notícias locais, mostrando o que acontece na sua região, com prestação de serviço, boletins de trânsito e a previsão do tempo(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181026193000 -0200" stop="20181026203000 -0200" channel="Globo">
+    <title lang="pt">O Tempo Não Para</title>
+    <desc lang="pt">Uma família congelada em 1886 desperta nos dias de hoje e precisa lidar com os choques temporais(n)</desc>
+    <credits>
+      <director>Leonardo Nogueira</director>
+      <actor>Edson Celulari</actor>
+      <actor>Juliana Paiva</actor>
+      <actor>Rosi Campos</actor>
+      <actor>Aline Dias</actor>
+      <actor>Cris Vianna</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20181026203000 -0200" stop="20181026205000 -0200" channel="Globo">
+    <title lang="pt">Horário Político</title>
+    <desc lang="pt">Horário Eleitoral obrigatório(n)</desc>
+    <date>2018</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181026205000 -0200" stop="20181026213500 -0200" channel="Globo">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181026213500 -0200" stop="20181026224500 -0200" channel="Globo">
+    <title lang="pt">Segundo Sol</title>
+    <desc lang="pt">A trama fala do protagonismo que cada um exerce em relação à sua própria história, e mostra que todos podem buscar uma nova chance, um segundo sol. A novela conta a saga de Luzia, que terá sua vida virada do avesso após se apaixon(n)</desc>
+    <credits>
+      <director>Dennis Carvalho</director>
+      <actor>Emílio Dantas</actor>
+      <actor>Giovanna Antonelli</actor>
+      <actor>Deborah Secco</actor>
+      <actor>Adriana Esteves</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181026224500 -0200" stop="20181026232500 -0200" channel="Globo">
+    <title lang="pt">Especial Globoplay: Assédio</title>
+    <desc lang="pt">A sérieu0027Assédio' terá seu primeiro capítulo exibido, sem intervalos, apósu0027Segundo Sol', num especial antes dau0027Tela Quente'(n)</desc>
+    <credits>
+      <director>Amora Mautner</director>
+      <actor>Adriana Esteves</actor>
+      <actor>Caroline Abras</actor>
+      <actor>Felipe Camargo</actor>
+      <actor>Fernand D'Umbra</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20181026232500 -0200" stop="20181027010000 -0200" channel="Globo">
+    <title lang="pt">Tela Quente</title>
+    <desc lang="pt">Tela Quente tem como principal objetivo oferecer ao telespectador, com regularidade, longas-metragens que foram grandes atrações do cinema ou produzidos especialmente para TV(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181027010000 -0200" stop="20181027022000 -0200" channel="Globo">
+    <title lang="pt">Sessão de Gala</title>
+    <desc lang="pt">Uma das mais tradicionais sessões de cinema da Rede Globo, apresentando longas-metragens que avançam pela madrugada das segundas. Normalmente apresenta filmes clássicos, premiados, voltados para o drama(n)</desc>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20181027022000 -0200" stop="20181027040000 -0200" channel="Globo">
+    <title lang="pt">Corujão</title>
+    <desc lang="pt">Sessão de filmes, séries e desenhos das madrugadas da Globo(n)</desc>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20181027040000 -0200" stop="20181027060000 -0200" channel="Globo">
+    <title lang="pt">Hora Um</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Monalisa Perrone(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181027060000 -0200" stop="20181027073000 -0200" channel="Globo">
+    <title lang="pt">Bom Dia Rio</title>
+    <desc lang="pt">Telejornal que traz as notíciais locais, mostrando o que acontece na sua região, com prestação de serviço, boletins de trânsito e a previsão do tempo(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181027073000 -0200" stop="20181027085000 -0200" channel="Globo">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">Chico Pinheiro e Ana Paula Araújo apresentam as primeiras notícias do dia no Brasil e no mundo e repercutem os fatos mais relevantes(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181027085000 -0200" stop="20181027101500 -0200" channel="Globo">
+    <title lang="pt">Mais Você</title>
+    <desc lang="pt">Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181027101500 -0200" stop="20181027105000 -0200" channel="Globo">
+    <title lang="pt">Bem Estar</title>
+    <desc lang="pt">Veja informações sobre saúde e qualidade de vida. Apresentado por Mariana Ferrão e Fernando Rocha, o programa tem participação de médicos e de especialistas(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181027105000 -0200" stop="20181027120000 -0200" channel="Globo">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+    <desc lang="pt">A apresentadora Fátima Bernardes comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão(n)</desc>
+    <credits>
+      <director>Guel Arraes</director>
+      <director>Fabrício Mamberti</director>
+    </credits>
+    <date>2012</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181027120000 -0200" stop="20181027123500 -0200" channel="Globo">
+    <title lang="pt">RJ1</title>
+    <desc lang="pt">O telejornal, apresentado por Mariana Gross, exibe as principais notícias do Rio, com prestação de serviço e previsão do tempo(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181027123500 -0200" stop="20181027130000 -0200" channel="Globo">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">O Globo Esporte atualiza o noticiário esportivo do dia com os destaques do Brasil e do mundo(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181027130000 -0200" stop="20181027132000 -0200" channel="Globo">
+    <title lang="pt">Horário Político</title>
+    <desc lang="pt">Horário Eleitoral obrigatório(n)</desc>
+    <date>2018</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181027132000 -0200" stop="20181027140000 -0200" channel="Globo">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Sandra Annenberg e Dony De Nuccio(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181027140000 -0200" stop="20181027150000 -0200" channel="Globo">
+    <title lang="pt">Vídeo Show</title>
+    <desc lang="pt">Confira os bastidores da televisão brasileira e as principais notícias sobre o mundo dos astros e das estrelas da Globo(n)</desc>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20181027150000 -0200" stop="20181027164000 -0200" channel="Globo">
+    <title lang="pt">Sessão da Tarde</title>
+    <desc lang="pt">A atração estreou em 1981 e apresenta longas-metragens de sucesso, em sua maioria de apelo infanto-juvenil(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181027164000 -0200" stop="20181027174500 -0200" channel="Globo">
+    <title lang="pt">Vale a Pena Ver de Novo: Belíssima</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <credits>
+      <director>Denise Saraceni</director>
+      <actor>Glória Pires</actor>
+      <actor>Tony Ramos</actor>
+      <actor>Fernanda Montenegro</actor>
+      <actor>Marcello Antony</actor>
+    </credits>
+    <date>2005</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181027174500 -0200" stop="20181027182000 -0200" channel="Globo">
+    <title lang="pt">Malhação: Vidas Brasileiras</title>
+    <desc lang="pt">A trama inovadora vai investigar, a cada quinzena, o drama pessoal de um aluno. Entre as questões levantadas, estão: a busca pela identidade, machismo, desemprego, questões familiares, idealização do corpo, entre outros(n)</desc>
+    <credits>
+      <director>Natalia Grimberg</director>
+      <actor>Guta Stresser</actor>
+      <actor>Ana Beatriz Nogueira</actor>
+      <actor>Luis Gustavo</actor>
+      <actor>Felipe Rocha</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20181027182000 -0200" stop="20181027190500 -0200" channel="Globo">
+    <title lang="pt">Espelho da Vida</title>
+    <desc lang="pt">Espelho da Vida apresenta uma trama de amor e mistério que ultrapassa as barreiras do tempo e do espaço ao se desenrolar em duas épocas distintas concomitantemente(n)</desc>
+    <credits>
+      <director>Pedro Vasconcelos</director>
+      <actor>Vitória Strada</actor>
+      <actor>João Vicente de Castro</actor>
+      <actor>Alinne Moraes</actor>
+      <actor>Rafael Cardoso</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20181027190500 -0200" stop="20181027193000 -0200" channel="Globo">
+    <title lang="pt">RJ2</title>
+    <desc lang="pt">Telejornal que traz as notícias locais, mostrando o que acontece na sua região, com prestação de serviço, boletins de trânsito e a previsão do tempo(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181027193000 -0200" stop="20181027203000 -0200" channel="Globo">
+    <title lang="pt">O Tempo Não Para</title>
+    <desc lang="pt">Uma família congelada em 1886 desperta nos dias de hoje e precisa lidar com os choques temporais(n)</desc>
+    <credits>
+      <director>Leonardo Nogueira</director>
+      <actor>Edson Celulari</actor>
+      <actor>Juliana Paiva</actor>
+      <actor>Rosi Campos</actor>
+      <actor>Aline Dias</actor>
+      <actor>Cris Vianna</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20181027203000 -0200" stop="20181027205000 -0200" channel="Globo">
+    <title lang="pt">Horário Político</title>
+    <desc lang="pt">Horário Eleitoral obrigatório(n)</desc>
+    <date>2018</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181027205000 -0200" stop="20181027213500 -0200" channel="Globo">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181027213500 -0200" stop="20181027224500 -0200" channel="Globo">
+    <title lang="pt">Segundo Sol</title>
+    <desc lang="pt">A trama fala do protagonismo que cada um exerce em relação à sua própria história, e mostra que todos podem buscar uma nova chance, um segundo sol. A novela conta a saga de Luzia, que terá sua vida virada do avesso após se apaixon(n)</desc>
+    <credits>
+      <director>Dennis Carvalho</director>
+      <actor>Emílio Dantas</actor>
+      <actor>Giovanna Antonelli</actor>
+      <actor>Deborah Secco</actor>
+      <actor>Adriana Esteves</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181027224500 -0200" stop="20181027232500 -0200" channel="Globo">
+    <title lang="pt">Especial Globoplay: Assédio</title>
+    <desc lang="pt">A sérieu0027Assédio' terá seu primeiro capítulo exibido, sem intervalos, apósu0027Segundo Sol', num especial antes dau0027Tela Quente'(n)</desc>
+    <credits>
+      <director>Amora Mautner</director>
+      <actor>Adriana Esteves</actor>
+      <actor>Caroline Abras</actor>
+      <actor>Felipe Camargo</actor>
+      <actor>Fernand D'Umbra</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20181027232500 -0200" stop="20181028010000 -0200" channel="Globo">
+    <title lang="pt">Tela Quente</title>
+    <desc lang="pt">Tela Quente tem como principal objetivo oferecer ao telespectador, com regularidade, longas-metragens que foram grandes atrações do cinema ou produzidos especialmente para TV(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181028010000 -0200" stop="20181028022000 -0200" channel="Globo">
+    <title lang="pt">Sessão de Gala</title>
+    <desc lang="pt">Uma das mais tradicionais sessões de cinema da Rede Globo, apresentando longas-metragens que avançam pela madrugada das segundas. Normalmente apresenta filmes clássicos, premiados, voltados para o drama(n)</desc>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20181028022000 -0200" stop="20181028040000 -0200" channel="Globo">
+    <title lang="pt">Corujão</title>
+    <desc lang="pt">Sessão de filmes, séries e desenhos das madrugadas da Globo(n)</desc>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20181028040000 -0200" stop="20181028060000 -0200" channel="Globo">
+    <title lang="pt">Hora Um</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Monalisa Perrone(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181028060000 -0200" stop="20181028073000 -0200" channel="Globo">
+    <title lang="pt">Bom Dia Minas</title>
+    <desc lang="pt">Mara Pinheiro e Gabriel Senna apresentam as primeiras notícias da manhã em todo o estado(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181028073000 -0200" stop="20181028085000 -0200" channel="Globo">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">Chico Pinheiro e Ana Paula Araújo apresentam as primeiras notícias do dia no Brasil e no mundo e repercutem os fatos mais relevantes(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181028085000 -0200" stop="20181028101500 -0200" channel="Globo">
+    <title lang="pt">Mais Você</title>
+    <desc lang="pt">Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181028101500 -0200" stop="20181028105000 -0200" channel="Globo">
+    <title lang="pt">Bem Estar</title>
+    <desc lang="pt">Veja informações sobre saúde e qualidade de vida. Apresentado por Mariana Ferrão e Fernando Rocha, o programa tem participação de médicos e de especialistas(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181028105000 -0200" stop="20181028120000 -0200" channel="Globo">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+    <desc lang="pt">A apresentadora Fátima Bernardes comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão(n)</desc>
+    <credits>
+      <director>Guel Arraes</director>
+      <director>Fabrício Mamberti</director>
+    </credits>
+    <date>2012</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181028120000 -0200" stop="20181028123500 -0200" channel="Globo">
+    <title lang="pt">MG1</title>
+    <desc lang="pt">Telejornal local que mostra as notícias de sua região. Em pauta a notícia da cidade, prestação de serviço, situação do trânsito e previsão do tempo(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181028123500 -0200" stop="20181028130000 -0200" channel="Globo">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">O Globo Esporte atualiza o noticiário esportivo do dia com os destaques do Brasil e do mundo(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181028130000 -0200" stop="20181028132000 -0200" channel="Globo">
+    <title lang="pt">Horário Político</title>
+    <desc lang="pt">Horário Eleitoral obrigatório(n)</desc>
+    <date>2018</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181028132000 -0200" stop="20181028140000 -0200" channel="Globo">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Sandra Annenberg e Dony De Nuccio(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181028140000 -0200" stop="20181028150000 -0200" channel="Globo">
+    <title lang="pt">Vídeo Show</title>
+    <desc lang="pt">Confira os bastidores da televisão brasileira e as principais notícias sobre o mundo dos astros e das estrelas da Globo(n)</desc>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20181028150000 -0200" stop="20181028164000 -0200" channel="Globo">
+    <title lang="pt">Sessão da Tarde</title>
+    <desc lang="pt">A atração estreou em 1981 e apresenta longas-metragens de sucesso, em sua maioria de apelo infanto-juvenil(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181028164000 -0200" stop="20181028174500 -0200" channel="Globo">
+    <title lang="pt">Vale a Pena Ver de Novo: Belíssima</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <credits>
+      <director>Denise Saraceni</director>
+      <actor>Glória Pires</actor>
+      <actor>Tony Ramos</actor>
+      <actor>Fernanda Montenegro</actor>
+      <actor>Marcello Antony</actor>
+    </credits>
+    <date>2005</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181028174500 -0200" stop="20181028182000 -0200" channel="Globo">
+    <title lang="pt">Malhação: Vidas Brasileiras</title>
+    <desc lang="pt">A trama inovadora vai investigar, a cada quinzena, o drama pessoal de um aluno. Entre as questões levantadas, estão: a busca pela identidade, machismo, desemprego, questões familiares, idealização do corpo, entre outros(n)</desc>
+    <credits>
+      <director>Natalia Grimberg</director>
+      <actor>Guta Stresser</actor>
+      <actor>Ana Beatriz Nogueira</actor>
+      <actor>Luis Gustavo</actor>
+      <actor>Felipe Rocha</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20181028182000 -0200" stop="20181028190500 -0200" channel="Globo">
+    <title lang="pt">Espelho da Vida</title>
+    <desc lang="pt">Espelho da Vida apresenta uma trama de amor e mistério que ultrapassa as barreiras do tempo e do espaço ao se desenrolar em duas épocas distintas concomitantemente(n)</desc>
+    <credits>
+      <director>Pedro Vasconcelos</director>
+      <actor>Vitória Strada</actor>
+      <actor>João Vicente de Castro</actor>
+      <actor>Alinne Moraes</actor>
+      <actor>Rafael Cardoso</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20181028190500 -0200" stop="20181028193000 -0200" channel="Globo">
+    <title lang="pt">MG2</title>
+    <desc lang="pt">Telejornal que traz as notícias locais, mostrando o que acontece na sua região, com prestação de serviço, boletins de trânsito e a previsão do tempo(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181028193000 -0200" stop="20181028203000 -0200" channel="Globo">
+    <title lang="pt">O Tempo Não Para</title>
+    <desc lang="pt">Uma família congelada em 1886 desperta nos dias de hoje e precisa lidar com os choques temporais(n)</desc>
+    <credits>
+      <director>Leonardo Nogueira</director>
+      <actor>Edson Celulari</actor>
+      <actor>Juliana Paiva</actor>
+      <actor>Rosi Campos</actor>
+      <actor>Aline Dias</actor>
+      <actor>Cris Vianna</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20181028203000 -0200" stop="20181028205000 -0200" channel="Globo">
+    <title lang="pt">Horário Político</title>
+    <desc lang="pt">Horário Eleitoral obrigatório(n)</desc>
+    <date>2018</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181028205000 -0200" stop="20181028213500 -0200" channel="Globo">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181028213500 -0200" stop="20181028224500 -0200" channel="Globo">
+    <title lang="pt">Segundo Sol</title>
+    <desc lang="pt">A trama fala do protagonismo que cada um exerce em relação à sua própria história, e mostra que todos podem buscar uma nova chance, um segundo sol. A novela conta a saga de Luzia, que terá sua vida virada do avesso após se apaixon(n)</desc>
+    <credits>
+      <director>Dennis Carvalho</director>
+      <actor>Emílio Dantas</actor>
+      <actor>Giovanna Antonelli</actor>
+      <actor>Deborah Secco</actor>
+      <actor>Adriana Esteves</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181028224500 -0200" stop="20181028232500 -0200" channel="Globo">
+    <title lang="pt">Especial Globoplay: Assédio</title>
+    <desc lang="pt">A sérieu0027Assédio' terá seu primeiro capítulo exibido, sem intervalos, apósu0027Segundo Sol', num especial antes dau0027Tela Quente'(n)</desc>
+    <credits>
+      <director>Amora Mautner</director>
+      <actor>Adriana Esteves</actor>
+      <actor>Caroline Abras</actor>
+      <actor>Felipe Camargo</actor>
+      <actor>Fernand D'Umbra</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20181028232500 -0200" stop="20181029010000 -0200" channel="Globo">
+    <title lang="pt">Tela Quente</title>
+    <desc lang="pt">Tela Quente tem como principal objetivo oferecer ao telespectador, com regularidade, longas-metragens que foram grandes atrações do cinema ou produzidos especialmente para TV(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181022000000 -0200" stop="20181022010000 -0200" channel="FOX">
+    <title lang="pt">Central Fox - Ao Vivo</title>
+    <desc lang="pt">José Ilan, Marina Ferrari, Edu Elias, Karine Alves, Daniela Boaventura e Felipe Motta comandam o programa que traz diariamente os gols dos melhores campeonatos, reportagens especiais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181022010000 -0200" stop="20181022024500 -0200" channel="FOX">
+    <title lang="pt">Campeonato Brasileiro</title>
+    <desc lang="pt">No Fox Sports, você acompanha na íntegra as partidas do mais importante campeonato nacional de futebol(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181022024500 -0200" stop="20181022043000 -0200" channel="FOX">
+    <title lang="pt">VT - Huesca x Espanyol</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181022043000 -0200" stop="20181022050000 -0200" channel="FOX">
+    <title lang="pt">Tabelão FOX Sports</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181022050000 -0200" stop="20181022051500 -0200" channel="FOX">
+    <title lang="pt">Filler</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181022051500 -0200" stop="20181022070000 -0200" channel="FOX">
+    <title lang="pt">VT - Betis x Valladolid</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181022070000 -0200" stop="20181022090000 -0200" channel="FOX">
+    <title lang="pt">A Última Palavra</title>
+    <desc lang="pt">Nivaldo Prieto e os talentos do Fox Sports fecham a rodada com as principais polêmicas e debates de tudo que aconteceu no mundo do esporte durante o final de semana(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181022090000 -0200" stop="20181022120000 -0200" channel="FOX">
+    <title lang="pt">Bom Dia Fox - Ao Vivo</title>
+    <desc lang="pt">Luciano Calheiros e Livia Nepomuceno trazem com leveza as primeiras notícias do dia sempre com um comentarista do canal, tal como Nadine Bastos, Fábio Sormani ou Osvaldo Pascoal(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181022120000 -0200" stop="20181022124500 -0200" channel="FOX">
+    <title lang="pt">Central Fox - Ao Vivo</title>
+    <desc lang="pt">José Ilan, Marina Ferrari, Edu Elias, Karine Alves, Daniela Boaventura e Felipe Motta comandam o programa que traz diariamente os gols dos melhores campeonatos, reportagens especiais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181022124500 -0200" stop="20181022153000 -0200" channel="FOX">
+    <title lang="pt">Fox Sports Rádio - Ao Vivo</title>
+    <desc lang="pt">Bom humor, opinião entrevistas exclusivas são as marcas do(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181022153000 -0200" stop="20181022173000 -0200" channel="FOX">
+    <title lang="pt">Boa Tarde Fox - Ao Vivo</title>
+    <desc lang="pt">Nivaldo Prieto e Helena Calil comandam o(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181022173000 -0200" stop="20181022200000 -0200" channel="FOX">
+    <title lang="pt">Expediente Futebol - Ao Vivo</title>
+    <desc lang="pt">O nosso u0027happy houru0027do futebol é comandado pelo apresentador João Guilherme. Todos os destaques da rodada com muito foco, detalhes e discussões aprofundadas(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181022200000 -0200" stop="20181022213000 -0200" channel="FOX">
+    <title lang="pt">Central Fox - Ao Vivo</title>
+    <desc lang="pt">José Ilan, Marina Ferrari, Edu Elias, Karine Alves, Daniela Boaventura e Felipe Motta comandam o programa que traz diariamente os gols dos melhores campeonatos, reportagens especiais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181022213000 -0200" stop="20181022233000 -0200" channel="FOX">
+    <title lang="pt">Jogo Sagrado - Ao Vivo</title>
+    <desc lang="pt">Liderado por Benjamin Back, novo programa que mistura esporte e humor, contará ainda com a participação do radialista e comediante stand up Rudy Landucci para reforçar a equipe do programa(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181022233000 -0200" stop="20181023004500 -0200" channel="FOX">
+    <title lang="pt">Central Fox - Ao Vivo</title>
+    <desc lang="pt">José Ilan, Marina Ferrari, Edu Elias, Karine Alves, Daniela Boaventura e Felipe Motta comandam o programa que traz diariamente os gols dos melhores campeonatos, reportagens especiais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181023004500 -0200" stop="20181023024500 -0200" channel="FOX">
+    <title lang="pt">A Última Palavra</title>
+    <desc lang="pt">Nivaldo Prieto e os talentos do Fox Sports fecham a rodada com as principais polêmicas e debates de tudo que aconteceu no mundo do esporte durante o final de semana(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181023024500 -0200" stop="20181023054500 -0200" channel="FOX">
+    <title lang="pt">Nascar Monster Energy: Kansas</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181023054500 -0200" stop="20181023061500 -0200" channel="FOX">
+    <title lang="pt">Resumo da NBB</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181023061500 -0200" stop="20181023064500 -0200" channel="FOX">
+    <title lang="pt">Tabelão FOX Sports</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181023064500 -0200" stop="20181023070000 -0200" channel="FOX">
+    <title lang="pt">Filler</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181023070000 -0200" stop="20181023084500 -0200" channel="FOX">
+    <title lang="pt">Campeonato Brasileiro</title>
+    <desc lang="pt">No Fox Sports, você acompanha na íntegra as partidas do mais importante campeonato nacional de futebol(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181023084500 -0200" stop="20181023093000 -0200" channel="FOX">
+    <title lang="pt">WWE Vintage</title>
+    <desc lang="pt">O WWE é a principal organização de Pro Wrestling no mundo e reúne as maiores estrelas da modalidade em fantásticos combates de tirar o fôlego(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181023093000 -0200" stop="20181023103000 -0200" channel="FOX">
+    <title lang="pt">WWE RAW</title>
+    <desc lang="pt">O WWE é a principal organização de Pro Wrestling no mundo e reúne as maiores estrelas da modalidade em fantásticos combates de tirar o fôlego(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181023103000 -0200" stop="20181023113000 -0200" channel="FOX">
+    <title lang="pt">WWE Main Event</title>
+    <desc lang="pt">O WWE é a principal organização de Pro Wrestling no mundo e reúne as maiores estrelas da modalidade em fantásticos combates de tirar o fôlego(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181023113000 -0200" stop="20181023130000 -0200" channel="FOX">
+    <title lang="pt">WWE Smackdown</title>
+    <desc lang="pt">O WWE é a principal organização de Pro Wrestling no mundo e reúne as maiores estrelas da modalidade em fantásticos combates de tirar o fôlego(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181023130000 -0200" stop="20181023131500 -0200" channel="FOX">
+    <title lang="pt">Filler</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181023131500 -0200" stop="20181023150000 -0200" channel="FOX">
+    <title lang="pt">Campeonato Brasileiro</title>
+    <desc lang="pt">No Fox Sports, você acompanha na íntegra as partidas do mais importante campeonato nacional de futebol(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181023150000 -0200" stop="20181023164500 -0200" channel="FOX">
+    <title lang="pt">VT - Cruzeiro x Corinthians</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181023164500 -0200" stop="20181023181500 -0200" channel="FOX">
+    <title lang="pt">Liga ACB: Obradoiro x Valencia</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181023181500 -0200" stop="20181023191500 -0200" channel="FOX">
+    <title lang="pt">Aqui Com Benja</title>
+    <desc lang="pt">Benjamin Back recebe personalidades do mundo esportivo para um papo descontraído e revelador(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181023191500 -0200" stop="20181023210000 -0200" channel="FOX">
+    <title lang="pt">Campeonato Brasileiro</title>
+    <desc lang="pt">No Fox Sports, você acompanha na íntegra as partidas do mais importante campeonato nacional de futebol(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181023210000 -0200" stop="20181024002000 -0200" channel="FOX">
+    <title lang="pt">WWE RAW - Ao Vivo</title>
+    <desc lang="pt">O WWE é a principal organização de Pro Wrestling no mundo e reúne as maiores estrelas da modalidade em fantásticos combates de tirar o fôlego(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181024002000 -0200" stop="20181024015500 -0200" channel="FOX">
+    <title lang="pt">Como Sobreviver a um Ataque Zumbi</title>
+    <desc lang="pt">Os três amigos Ben, Carter e Augie são escoteiros e estão cansados das chacotas que sofrem. Eles decidem começar a curtir a vida como adultos e vão parar num clube noturno(n)</desc>
+    <credits>
+      <director>Christopher Landon</director>
+      <actor>Tye Sheridan</actor>
+      <actor>Logan Miller</actor>
+      <actor>Joey Morgan</actor>
+      <actor>Sarah Dumont</actor>
+      <actor>Niki Koss</actor>
+      <actor>David Koechner</actor>
+      <actor>Halston Sage</actor>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181024015500 -0200" stop="20181024034000 -0200" channel="FOX">
+    <title lang="pt">Meu Nome é Taylor, Drillbit Taylor</title>
+    <desc lang="pt">Perseguidos na escola, um trio decide contratar os serviços de um guarda-costas. Mas o cara se revela um tremendo atrapalhado, o que coloca os garotos em problemas muito maiores(n)</desc>
+    <credits>
+      <director>Steven Brill</director>
+      <actor>Nate Hartley</actor>
+      <actor>Troy Gentile</actor>
+      <actor>Ian Roberts</actor>
+      <actor>Owen Wilson</actor>
+      <actor>Casey Boersma</actor>
+      <actor>Dylan Boersma</actor>
+      <actor>Lisa Ann Walter</actor>
+      <actor>Beth Littleford</actor>
+      <actor>David Koechner</actor>
+      <actor>Matt Walsh</actor>
+    </credits>
+    <date>2008</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20181024034000 -0200" stop="20181024051000 -0200" channel="FOX">
+    <title lang="pt">Espião por Acidente</title>
+    <desc lang="pt">Buck Yuen impede assalto no shopping onde trabalha. Não demora muito, e ele começa a ser perseguido e terá de usar seus talentos em artes marciais para ficar vivo(n)</desc>
+    <credits>
+      <director>Teddy Chan</director>
+      <actor>Jackie Chan</actor>
+      <actor>Eric Tsang</actor>
+      <actor>Vivian Hsu</actor>
+      <actor>Kim Min-jeong</actor>
+      <actor>Wu Hsing-kuo</actor>
+      <actor>Alfred Cheung</actor>
+      <actor>Anthony Rene Jones</actor>
+      <actor>Glory Simon</actor>
+      <actor>Bradley James Allan</actor>
+      <actor>Tat-Ming Cheung</actor>
+    </credits>
+    <date>2001</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181024051000 -0200" stop="20181024070000 -0200" channel="FOX">
+    <title lang="pt">Kingsglave: Final Fantasy XV</title>
+    <desc lang="pt">O rei Regis, que supervisiona a terra de Lucis, comanda seu exército de soldados para proteger o reino contra os planos do império de Niflheim de roubar o cristal sagrado que dá a Lucis toda sua magia e poder(n)</desc>
+    <credits>
+      <director>Takeshi Nozue</director>
+      <actor>Vozes de Aaron Paul</actor>
+      <actor>Lena Headey</actor>
+      <actor>Sean Bean</actor>
+      <actor>Adrian Bouchet</actor>
+      <actor>Liam Mulvey</actor>
+      <actor>Alexa Kahn</actor>
+      <actor>Todd Haberkorn</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181024070000 -0200" stop="20181024075000 -0200" channel="FOX">
+    <title lang="pt">Prison Break</title>
+    <desc lang="pt">Sara teme pela segurança de sua família quando descobre a verdadeira razão pela qual Michael fingiu sua própria morte(n)</desc>
+    <credits>
+      <director>Paul Scheuring</director>
+      <actor>Amaury Nolasco</actor>
+      <actor>Dominic Purcell</actor>
+      <actor>Jodi Lyn OKeefe</actor>
+      <actor>Michael Rapaport</actor>
+      <actor>Robert Knepper</actor>
+      <actor>Sarah Wayne Callies</actor>
+      <actor>Wentworth Miller</actor>
+      <actor>William Fichtner</actor>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S5 E7</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181024075000 -0200" stop="20181024092000 -0200" channel="FOX">
+    <title lang="pt">Duplex</title>
+    <desc lang="pt">Casal encontra o apartamento dos sonhos. Mas há um problema: a antiga moradora, uma simpática velhinha se recusa a deixar o local, e eles decidem matá-la(n)</desc>
+    <credits>
+      <director>Danny DeVito</director>
+      <actor>Ben Stiller</actor>
+      <actor>Drew Barrymore</actor>
+      <actor>Eileen Essel</actor>
+      <actor>Harvey Fierstein</actor>
+      <actor>Justin Theroux</actor>
+      <actor>James Remar</actor>
+      <actor>Robert Wisdom</actor>
+      <actor>Swoosie Kurtz</actor>
+      <actor>Wallace Shawn</actor>
+      <actor>Maya Rudolph</actor>
+      <actor>Amber Valletta</actor>
+      <actor>Cheryl Klein</actor>
+      <actor>Tim Maculan</actor>
+      <actor>Yevgeni Lazarev</actor>
+    </credits>
+    <date>2003</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181024092000 -0200" stop="20181024105500 -0200" channel="FOX">
+    <title lang="pt">A Mentira</title>
+    <desc lang="pt">Após mentir sobre ter perdido a virgindade, uma inteligente e linda estudante vê sua vida seguir paralelamente com a de Hester Prynne em(n)</desc>
+    <credits>
+      <director>Will Gluck</director>
+      <actor>Emma Stone</actor>
+      <actor>Amanda Bynes</actor>
+      <actor>Dan Byrd</actor>
+      <actor>Thomas Haden Church</actor>
+      <actor>Patricia Clarkson</actor>
+    </credits>
+    <date>2010</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181024105500 -0200" stop="20181024124500 -0200" channel="FOX">
+    <title lang="pt">Cidades de Papel</title>
+    <desc lang="pt">O tímido Quentin sempre foi apaixonado por sua vizinha de infância, Margo Spiegelman, mas nunca se declarou. Uma noite, ela invade o quarto dele e o convida a fazer parte de um mirabolante plano de vingança(n)</desc>
+    <credits>
+      <director>Jake Schreier</director>
+      <actor>Nat Wolff</actor>
+      <actor>Cara Delevingne</actor>
+      <actor>Austin Abrams</actor>
+      <actor>Justice Smith</actor>
+      <actor>Halston Sage</actor>
+      <actor>Jaz Sinclair</actor>
+      <actor>Cara Buono</actor>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181024124500 -0200" stop="20181024143500 -0200" channel="FOX">
+    <title lang="pt">Monte Carlo</title>
+    <desc lang="pt">Grace sempre sonhou em conhecer Paris, mas a viagem com suas amigas está sendo um fiasco. Tudo muda quando ela é confundida com uma rica socialite, e as meninas passam a usufruir de todas as regalias da alta sociedade(n)</desc>
+    <credits>
+      <director>Thomas Bezucha</director>
+      <actor>Selena Gomez</actor>
+      <actor>Leighton Meester</actor>
+      <actor>Katie Cassidy</actor>
+      <actor>Cory Monteith</actor>
+      <actor>Amanda Fairbank-Hynes</actor>
+    </credits>
+    <date>2011</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181024143500 -0200" stop="20181024162500 -0200" channel="FOX">
+    <title lang="pt">A Filha do Presidente</title>
+    <desc lang="pt">A filha do presidente dos Estados Unidos quer ir à faculdade sem os seguranças. Seu pai concorda, mas envia um agente disfarçado que acaba se apaixonando por ela(n)</desc>
+    <credits>
+      <director>Forest Whitaker</director>
+      <actor>Katie Holmes</actor>
+      <actor>Marc Blucas</actor>
+      <actor>Michael Keaton</actor>
+      <actor>Dwayne Adway</actor>
+      <actor>Alex Avant</actor>
+      <actor>Philip Boyd</actor>
+      <actor>Michael Milhoam</actor>
+      <actor>Hollis Hill</actor>
+      <actor>Steve Tom</actor>
+    </credits>
+    <date>2004</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181024162500 -0200" stop="20181024165000 -0200" channel="FOX">
+    <title lang="pt">Os Simpsons</title>
+    <desc lang="pt">Marge adquire com facilidade o espírito natalino, algo que se mostra um pouco mais difícil para o resto da família. Quando os Simpsons vão dormir antes da manhã de Natal, cada uma das crianças tem um sonho ligado ao Natal(n)</desc>
+    <credits>
+      <director>Bob Anderson</director>
+      <actor>Vozes de Dan Castellaneta</actor>
+      <actor>Julie Kavner</actor>
+      <actor>Nancy Cartwright</actor>
+      <actor>Yeardley Smith</actor>
+      <actor>Hank Azaria</actor>
+      <actor>Harry Shearer</actor>
+      <actor>Gregg Berger</actor>
+    </credits>
+    <date>2010</date>
+    <episode-num system="onscreen">S22 E7</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181024165000 -0200" stop="20181024171500 -0200" channel="FOX">
+    <title lang="pt">Os Simpsons: O Menino que Sabia Demais</title>
+    <desc lang="pt">Em um caso tirado das manchetes, Bart é a única testemunha quando o sobrinho do prefeito Quimby, o Freddy, supostamente assalta um esnobe mordomo francês(n)</desc>
+    <credits>
+      <director>Jeffrey Lynch</director>
+      <actor>Vozes de Julie Kavner</actor>
+      <actor>Pamela Hayden</actor>
+      <actor>Dan Castellaneta</actor>
+      <actor>Nancy Cartwright</actor>
+      <actor>Phil Hartman</actor>
+      <actor>Marcia Wallace</actor>
+      <actor>Doris Grau</actor>
+      <actor>Russi Taylor</actor>
+    </credits>
+    <date>1994</date>
+    <episode-num system="onscreen">S5 E20</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181024171500 -0200" stop="20181024173700 -0200" channel="FOX">
+    <title lang="pt">Os Simpsons</title>
+    <desc lang="pt">Os Simpsons vão até a loja Mapple no Shopping Center de Springfield, onde Lisa obtém o seu próprio Mypod e Bart interrompe um anúncio de Steve Mobbs e usa sobreposição de voz para provocar um alvoroço pela loja(n)</desc>
+    <credits>
+      <director>Steven Dean Moore</director>
+      <actor>Vozes de Dan Castellaneta</actor>
+      <actor>Julie Kavner</actor>
+      <actor>Nancy Cartwright</actor>
+      <actor>Harry Shearer</actor>
+      <actor>Yeardley Smith</actor>
+      <actor>Hank Azaria</actor>
+      <actor>Shohreh Aghdashloo</actor>
+    </credits>
+    <date>2008</date>
+    <episode-num system="onscreen">S20 E7</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181024173700 -0200" stop="20181024180500 -0200" channel="FOX">
+    <title lang="pt">Os Simpsons</title>
+    <desc lang="pt">Moe transforma o bar num ponto de encontro requintado para os mauricinhos e patricinhas de Springfield, obrigando Homer a inaugurar um bar em sua própria garagem(n)</desc>
+    <credits>
+      <director>Jen Kamerman</director>
+      <director>Jim Reardon</director>
+      <actor>Vozes de Julie Kavner</actor>
+      <actor>Hank Azaria</actor>
+      <actor>Dan Castellaneta</actor>
+      <actor>Nancy Cartwright</actor>
+      <actor>Yeardley Smith</actor>
+      <actor>Peter Buck</actor>
+    </credits>
+    <date>2001</date>
+    <episode-num system="onscreen">S13 E3</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181024180500 -0200" stop="20181024200000 -0200" channel="FOX">
+    <title lang="pt">As Tartarugas Ninja: Fora das Sombras</title>
+    <credits>
+      <director>Dave Green</director>
+      <actor>Megan Fox</actor>
+      <actor>Will Arnett</actor>
+      <actor>Laura Linney</actor>
+      <actor>Stephen Amell</actor>
+      <actor>Noel Fisher</actor>
+      <actor>Jeremy Howard</actor>
+      <actor>Pete Ploszek</actor>
+      <actor>Alan Ritchson</actor>
+      <actor>Tyler Perry</actor>
+      <actor>Brian Tee</actor>
+      <actor>Stephen Farrelly</actor>
+      <actor>Brad Garrett</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20181024200000 -0200" stop="20181024202500 -0200" channel="FOX">
+    <title lang="pt">Os Simpsons</title>
+    <desc lang="pt">Esse episódio tem o tema de ecologia e, nele, os Simpons vão usar uma turbina movida a vento no seu quintal, como uma fonte de energia barata e limpa(n)</desc>
+    <credits>
+      <director>Mark Kirkland</director>
+      <actor>Vozes de Dan Castellaneta</actor>
+      <actor>Julie Kavner</actor>
+      <actor>Nancy Cartwright</actor>
+      <actor>Yeardley Smith</actor>
+      <actor>Hank Azaria</actor>
+      <actor>Harry Shearer</actor>
+      <actor>Pamela Hayden</actor>
+    </credits>
+    <date>2010</date>
+    <episode-num system="onscreen">S21 E19</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181024202500 -0200" stop="20181024205000 -0200" channel="FOX">
+    <title lang="pt">Os Simpsons</title>
+    <desc lang="pt">Bart passa por uma prova difícil na escola quando o novo professor, Sr. Lassen, promete acabar com seu espírito(n)</desc>
+    <credits>
+      <director>Rob Oliver</director>
+      <actor>Vozes de Dan Castellaneta</actor>
+      <actor>Julie Kavner</actor>
+      <actor>Nancy Cartwright</actor>
+      <actor>Yeardley Smith</actor>
+      <actor>Tress MacNeille</actor>
+      <actor>Chris Edgerly</actor>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S26 E7</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181024205000 -0200" stop="20181024211500 -0200" channel="FOX">
+    <title lang="pt">Os Simpsons</title>
+    <desc lang="pt">Após a polícia descobrir que Bart e Milhouse saqueiam o memorial dos Beatles de Flanders, Marge decide colocar seu filho numa atividade supervisionada, nos Pre-Teen Braves(n)</desc>
+    <credits>
+      <director>Michael Polcino</director>
+      <actor>Vozes de Nancy Cartwright</actor>
+      <actor>Dan Castellaneta</actor>
+      <actor>Julie Kavner</actor>
+      <actor>Yeardley Smith</actor>
+      <actor>Harry Shearer</actor>
+      <actor>Hank Azaria</actor>
+      <actor>Pamela Hayden</actor>
+      <actor>Tress MacNeille</actor>
+      <actor>Russi Taylor</actor>
+    </credits>
+    <date>2003</date>
+    <episode-num system="onscreen">S14 E21</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181024211500 -0200" stop="20181024214000 -0200" channel="FOX">
+    <title lang="pt">Os Simpsons</title>
+    <desc lang="pt">Homer involuntariamente leva a família para um labirinto em um campo de milho após tentar ir embora do tedioso Festival da Colheira que Marge os levou.seu cachorro ou a sua cobra(n)</desc>
+    <credits>
+      <director>Matthew Faughnan</director>
+      <actor>Vozes de Julie Kavner</actor>
+      <actor>Dan Castellaneta</actor>
+      <actor>Nancy Cartwright</actor>
+      <actor>Hank Azaria</actor>
+      <actor>Harry Shearer</actor>
+      <actor>Yardley Smith</actor>
+      <actor>Pamela Hayden</actor>
+      <actor>Tress MacNeille</actor>
+      <actor>Rudolph W. Giuliani</actor>
+      <actor>Maurice LaMarche</actor>
+    </credits>
+    <date>2007</date>
+    <episode-num system="onscreen">S18 E20</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181024214000 -0200" stop="20181024220500 -0200" channel="FOX">
+    <title lang="pt">Os Simpsons</title>
+    <desc lang="pt">Homer questiona se o destino realmente fez ele lidar com um jogo difícil quando descobre que a eleição para presidente de classe que ele perdeu na escola secundária foi manipulada(n)</desc>
+    <credits>
+      <director>Steven Dean Moore</director>
+      <actor>Vozes de Dan Castellaneta</actor>
+      <actor>Julie Kavner</actor>
+      <actor>Nancy Cartwright</actor>
+      <actor>Yeardley Smith</actor>
+      <actor>Harry Shearer</actor>
+      <actor>Hank Azaria</actor>
+      <actor>Pamela Hayden</actor>
+    </credits>
+    <date>2009</date>
+    <episode-num system="onscreen">S20 E10</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181024220500 -0200" stop="20181024223000 -0200" channel="FOX">
+    <title lang="pt">Os Simpsons: Pai da Assobiadora</title>
+    <desc lang="pt">Homer descobre que Maggie é uma assobiadora nata e lança sua carreira de bebê celebridade. Enquanto isso, Marge impressiona Tony Gordo com seu bom gosto para design de interiores e ele a contrata para estilizar seu bordel(n)</desc>
+    <credits>
+      <director>Matthew Faughnan</director>
+      <actor>Vozes de Dan Castellaneta</actor>
+      <actor>Julie Kavner</actor>
+      <actor>Nancy Cartwright</actor>
+      <actor>Yeardley Smith</actor>
+      <actor>Tress MacNeille</actor>
+      <actor>Chris Edgerly</actor>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S29 E3</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181024223000 -0200" stop="20181024232000 -0200" channel="FOX">
+    <title lang="pt">The Walking Dead: Sinais de Aviso</title>
+    <desc lang="pt">Os planos de Rick são ameaçados por um misterioso desaparecimento que divide o campo de trabalho, onde as comunidades estão erguendo uma ponte(n)</desc>
+    <credits>
+      <director>Dan Liu</director>
+      <actor>Andrew Lincoln</actor>
+      <actor>Norman Reedus</actor>
+      <actor>Lauren Cohan</actor>
+      <actor>Lennie James</actor>
+      <actor>Melissa McBride</actor>
+      <actor>Sonequa Martin-Green</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S9 E3</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20181024232000 -0200" stop="20181025000000 -0200" channel="FOX">
+    <title lang="pt">The Walking Dead: Sinais de Aviso</title>
+    <desc lang="pt">Os planos de Rick são ameaçados por um misterioso desaparecimento que divide o campo de trabalho, onde as comunidades estão erguendo uma ponte(n)</desc>
+    <credits>
+      <director>Dan Liu</director>
+      <actor>Andrew Lincoln</actor>
+      <actor>Norman Reedus</actor>
+      <actor>Lauren Cohan</actor>
+      <actor>Lennie James</actor>
+      <actor>Melissa McBride</actor>
+      <actor>Sonequa Martin-Green</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S9 E3</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20181025000000 -0200" stop="20181025013000 -0200" channel="FOX">
+    <title lang="pt">O Dia em que a Terra Parou</title>
+    <desc lang="pt">Helen Benson é uma cientista que mantém contato com Klaatu, um alienígena que veio à Terra para alertar sobre uma crise global. Ele deseja conversar com líderes mas por ser considerado hostil, passa a ser ameaçado(n)</desc>
+    <credits>
+      <director>Scott Derrickson</director>
+      <actor>Keanu Reeves</actor>
+      <actor>Jennifer Connely</actor>
+      <actor>Jaden Smith</actor>
+      <actor>John Cleese</actor>
+      <actor>Jon Hamm</actor>
+      <actor>Kyle Chandler</actor>
+      <actor>Robert Knepper</actor>
+      <actor>James Hong</actor>
+    </credits>
+    <date>2008</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20181025013000 -0200" stop="20181025021500 -0200" channel="FOX">
+    <title lang="pt">Emergências Médicas</title>
+    <desc lang="pt">René tenta trabalhar novamente no hospital, mas suas colegas tornam sua vida impossível e ele discute constantemente com seu chefe. Por isso, ele pede ao Dr. Rayo o cargo de chefe da enfermaria(n)</desc>
+    <credits>
+      <director>Herney Luna</director>
+      <actor>Paola Rey</actor>
+      <actor>Rafael Novoa</actor>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S2 E58</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181025021500 -0200" stop="20181025030000 -0200" channel="FOX">
+    <title lang="pt">Emergências Médicas</title>
+    <desc lang="pt">Juan José e Alina saem do hospital ao mesmo tempo. Cardona diz à doutora que lhe deve um convite para jantar, e que essa pode ser a ocasião perfeita para cumprir a promessa(n)</desc>
+    <credits>
+      <director>Herney Luna</director>
+      <actor>Paola Rey</actor>
+      <actor>Rafael Novoa</actor>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S2 E59</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181025030000 -0200" stop="20181025034500 -0200" channel="FOX">
+    <title lang="pt">Emergências Médicas</title>
+    <desc lang="pt">Diego chega à universidade para dar aulas, mas tem uma desagradável surpresa: seu contrato foi cancelado. Depois de averiguar a situação, ele descobre que Martino falou muito mal sobre ele com o reitor(n)</desc>
+    <credits>
+      <director>Herney Luna</director>
+      <actor>Paola Rey</actor>
+      <actor>Rafael Novoa</actor>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S2 E60</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181025034500 -0200" stop="20181025043000 -0200" channel="FOX">
+    <title lang="pt">Emergências Médicas</title>
+    <desc lang="pt">Pinto ameaça Rayo de não o seguir protegendo se ele não o promova no lugar de Carolina, e Rayo resignado lhe dá a autorização(n)</desc>
+    <credits>
+      <director>Herney Luna</director>
+      <actor>Paola Rey</actor>
+      <actor>Rafael Novoa</actor>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S2 E61</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181025043000 -0200" stop="20181025051500 -0200" channel="FOX">
+    <title lang="pt">9-1-1</title>
+    <desc lang="pt">Dos criadores de Glee e American Crime Story, Ryan Murphy e Brad Falchuk, 9-1-1 mostra a pressão do trabalho da polícia, de paramédicos e de bombeiros que são incumbidos de resolver as situações mais assustadoras(n)</desc>
+    <credits>
+      <director>Bradley Buecker</director>
+      <actor>Angela Bassett</actor>
+      <actor>Oliver Stark</actor>
+      <actor>Peter Krause</actor>
+      <actor>Kenneth Choi</actor>
+      <actor>Connie Britton</actor>
+      <actor>Mariette Hartley</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181025051500 -0200" stop="20181025054000 -0200" channel="FOX">
+    <title lang="pt">New Girl</title>
+    <desc lang="pt">Jess faz de tudo para tirar Nick da cabeça quando ele volta mais cedo de seu verão em Nova Orleans. Schmidt e Cece seguem em busca de sua primeira casa e Winston lida com um relacionamento a longa distância com Aly(n)</desc>
+    <credits>
+      <director>Erin O'Malley</director>
+      <actor>Zooey Deschanel</actor>
+      <actor>Jake Johnson</actor>
+      <actor>Max Greenfield</actor>
+      <actor>Lamorne Morris</actor>
+      <actor>Hannah Simone</actor>
+      <actor>Nelson Franklin</actor>
+      <actor>Meaghan Rath</actor>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S6 E1</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181025054000 -0200" stop="20181025060000 -0200" channel="FOX">
+    <title lang="pt">New Girl</title>
+    <desc lang="pt">Jess e Cece se jogam na campanha e apostam com Schmidt que eles podem recrutar eleitores para a próxima eleição presidencial. Enquanto isso, Winston ensina Nick sobre sexo moderno pelo telefone(n)</desc>
+    <credits>
+      <director>Erin O'Malley</director>
+      <actor>Zooey Deschanel</actor>
+      <actor>Jake Johnson</actor>
+      <actor>Max Greenfield</actor>
+      <actor>Lamorne Morris</actor>
+      <actor>Hannah Simone</actor>
+      <actor>Nelson Franklin</actor>
+      <actor>Meaghan Rath</actor>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S6 E2</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181025060000 -0200" stop="20181025063000 -0200" channel="FOX">
+    <title lang="pt">New Girl</title>
+    <desc lang="pt">Quando Schmidt e Cece e Winston e Aly convidam Jess para sua viagem de casais, integrantes de seu grupo de solteiros se integram(n)</desc>
+    <credits>
+      <director>Erin O'Malley</director>
+      <actor>Zooey Deschanel</actor>
+      <actor>Jake Johnson</actor>
+      <actor>Max Greenfield</actor>
+      <actor>Lamorne Morris</actor>
+      <actor>Hannah Simone</actor>
+      <actor>Nelson Franklin</actor>
+      <actor>Meaghan Rath</actor>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S6 E3</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181025063000 -0200" stop="20181025070000 -0200" channel="FOX">
+    <title lang="pt">New Girl</title>
+    <desc lang="pt">Jess e banda vão a Nova York, onde Schmidt crê que será reconhecido em sua ex-escola. Jess ajuda ao Detetive Jake Peralta em um caso(n)</desc>
+    <credits>
+      <director>Erin O'Malley</director>
+      <actor>Zooey Deschanel</actor>
+      <actor>Jake Johnson</actor>
+      <actor>Max Greenfield</actor>
+      <actor>Lamorne Morris</actor>
+      <actor>Hannah Simone</actor>
+      <actor>Nelson Franklin</actor>
+      <actor>Meaghan Rath</actor>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S6 E4</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181025070000 -0200" stop="20181025073000 -0200" channel="FOX">
+    <title lang="pt">Paid Programming</title>
+    <desc lang="pt">Espaço publicitário para divulgação de produtos e serviços(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181025073000 -0200" stop="20181025080000 -0200" channel="FOX">
+    <title lang="pt">Paid Programming</title>
+    <desc lang="pt">Espaço publicitário para divulgação de produtos e serviços(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181025080000 -0200" stop="20181025083000 -0200" channel="FOX">
+    <title lang="pt">Paid Programming</title>
+    <desc lang="pt">Espaço publicitário para divulgação de produtos e serviços(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181025083000 -0200" stop="20181025090000 -0200" channel="FOX">
+    <title lang="pt">Paid Programming</title>
+    <desc lang="pt">Espaço publicitário para divulgação de produtos e serviços(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181025090000 -0200" stop="20181025093000 -0200" channel="FOX">
+    <title lang="pt">Paid Programming</title>
+    <desc lang="pt">Espaço publicitário para divulgação de produtos e serviços(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181025093000 -0200" stop="20181025100000 -0200" channel="FOX">
+    <title lang="pt">Paid Programming</title>
+    <desc lang="pt">Espaço publicitário para divulgação de produtos e serviços(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181025100000 -0200" stop="20181025102500 -0200" channel="FOX">
+    <title lang="pt">Modern Family</title>
+    <desc lang="pt">A família está determinada a fazer com que Alex comemore seu dia de matar aula e Phil, Luke e Haley a levam para passear mas os planos acabam tendo um desvio inesperado(n)</desc>
+    <credits>
+      <director>Ryan Case</director>
+      <actor>Ed O'Neill</actor>
+      <actor>Sofía Vergara</actor>
+      <actor>Julie Bowen</actor>
+      <actor>Ty Burrell</actor>
+      <actor>Jesse Tyler Ferguson</actor>
+      <actor>Eric Stonestreet</actor>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S6 E23</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181025102500 -0200" stop="20181025104500 -0200" channel="FOX">
+    <title lang="pt">Modern Family</title>
+    <desc lang="pt">Toda a família está na casa de Jay e Gloria por conta da festa de formatura de Alex, exceto Phil, que engenhosamente descobriu uma forma de estar presente usando o Skype(n)</desc>
+    <credits>
+      <director>Steven Levitan</director>
+      <actor>Ed O'Neill</actor>
+      <actor>Sofía Vergara</actor>
+      <actor>Julie Bowen</actor>
+      <actor>Ty Burrell</actor>
+      <actor>Jesse Tyler Ferguson</actor>
+      <actor>Eric Stonestreet</actor>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S6 E24</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181025104500 -0200" stop="20181025113000 -0200" channel="FOX">
+    <title lang="pt">Entre Canibais</title>
+    <desc lang="pt">Valmora sai ileso do protesto, mas o conflito entre as duas facções continua latente. Por outro lado, Agustín se encontra com Ariana fora do ambiente de trabalho(n)</desc>
+    <credits>
+      <director>Juan Jose Campanella</director>
+      <actor>Natalia Oreiro</actor>
+      <actor>Benjamin Vicuña</actor>
+      <actor>Joaquin Furriel</actor>
+      <actor>Danny Pardo</actor>
+      <actor>Verónica Pelaccini</actor>
+    </credits>
+    <date>2015</date>
+    <episode-num system="onscreen">S1 E36</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20181025113000 -0200" stop="20181025121500 -0200" channel="FOX">
+    <title lang="pt">Emergências Médicas</title>
+    <desc lang="pt">Beltrán pede a Cindy o histórico médico de Galán para ver seus antecedentes, e nota então o problema de Calixto. Carolina comenta com Diego que Pinto é o novo chefe dos enfermeiros(n)</desc>
+    <credits>
+      <director>Herney Luna</director>
+      <actor>Paola Rey</actor>
+      <actor>Rafael Novoa</actor>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S2 E63</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181025121500 -0200" stop="20181025130000 -0200" channel="FOX">
+    <title lang="pt">Emergências Médicas</title>
+    <desc lang="pt">No supermercado, Diego pede ao Agente González que não entre a força. Carolina, a Sra. Navas e Alfonsín, levam Toño ao fundo, já inconsciente(n)</desc>
+    <credits>
+      <director>Herney Luna</director>
+      <actor>Paola Rey</actor>
+      <actor>Rafael Novoa</actor>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S2 E64</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181025130000 -0200" stop="20181025132000 -0200" channel="FOX">
+    <title lang="pt">Speechless: O-O S-SONHO D-DE J-J</title>
+    <desc lang="pt">Ray se mete em problemas ao inventar um falso evento de caridade para impressionar sua namorada. Maya dá conselhos a Jimmy sobre como ser o chefe e Dylan exige que Kenneth saia do seu espaço(n)</desc>
+    <credits>
+      <director>Christine Gernon</director>
+      <actor>Cedric Yarbrough</actor>
+      <actor>John Ross Bowie</actor>
+      <actor>Minnie Driver</actor>
+      <actor>Mason Cook</actor>
+      <actor>Micah Fowler</actor>
+      <actor>Marin Hinkle</actor>
+      <actor>Liz Cackowski</actor>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181025132000 -0200" stop="20181025134500 -0200" channel="FOX">
+    <title lang="pt">Speechless: D-D-I-A DE T-R-TREINAMENTO</title>
+    <desc lang="pt">Jimmy leva JJ para acampar e assim terem(n)</desc>
+    <credits>
+      <director>Bill Purple</director>
+      <actor>Cedric Yarbrough</actor>
+      <actor>John Ross Bowie</actor>
+      <actor>Minnie Driver</actor>
+      <actor>Mason Cook</actor>
+      <actor>Micah Fowler</actor>
+      <actor>Marin Hinkle</actor>
+      <actor>Liz Cackowski</actor>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181025134500 -0200" stop="20181025143000 -0200" channel="FOX">
+    <title lang="pt">Snapped: She Made me Do It</title>
+    <desc lang="pt">Uma jovem mãe é encontrada brutalmente assassinada num campo de milho e os investigadores descobrem que ela foi flagrada num complexo triângulo amoroso com criminosos profissionais(n)</desc>
+    <credits>
+      <director>Patti Harris</director>
+      <actor>Emily Killian</actor>
+      <actor>Koral Michaels</actor>
+      <actor>Ashley Ahlquist</actor>
+      <actor>Kacey Fifield</actor>
+      <actor>Shayna Gabrielle</actor>
+      <actor>Aaron Groben</actor>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181025143000 -0200" stop="20181025151500 -0200" channel="FOX">
+    <title lang="pt">Private Eyes: O Código de Investigação</title>
+    <desc lang="pt">Shade e Angie são contratados pela advogada Melanie Parker, para investigar subornos a jurados de um caso de assassinato(n)</desc>
+    <credits>
+      <director>Shelley Eriksen</director>
+      <actor>Barry Flatman</actor>
+      <actor>Cindy Sampson</actor>
+      <actor>Jason Priestley</actor>
+      <actor>Mimi Kuzyk</actor>
+      <actor>David Reale</actor>
+      <actor>Tara Mason</actor>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181025151500 -0200" stop="20181025160000 -0200" channel="FOX">
+    <title lang="pt">Emergências Médicas</title>
+    <desc lang="pt">Voltam as histórias do hospital La Esperanza, onde um grupo de médicos de diferentes especialidades trabalham diariamente para salvar a vida dos pacientes que sofrem de casos marcantes(n)</desc>
+    <credits>
+      <director>Herney Luna</director>
+      <actor>Paola Rey</actor>
+      <actor>Rafael Novoa</actor>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S2 E16</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181025160000 -0200" stop="20181025164500 -0200" channel="FOX">
+    <title lang="pt">Bones</title>
+    <desc lang="pt">Booth interrompe as férias de Brennan com Sully a todo momento a fim de obter ajuda no caso de uma mulher que foi encontrada morta - e sem ossos - em um rio. Sully pede para Brennan fugir com ele(n)</desc>
+    <credits>
+      <director>Tony Wharmby</director>
+      <actor>Emily Deschanel</actor>
+      <actor>David Boreanaz</actor>
+      <actor>Michaela Conlin</actor>
+      <actor>Lucille Soong</actor>
+      <actor>Deborah Theaker</actor>
+      <actor>James Hong</actor>
+      <actor>Eddie McClintock</actor>
+      <actor>Alice Lo</actor>
+      <actor>Bob Lem</actor>
+    </credits>
+    <date>2007</date>
+    <episode-num system="onscreen">S2 E16</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20181025164500 -0200" stop="20181025173000 -0200" channel="FOX">
+    <title lang="pt">Bones</title>
+    <desc lang="pt">O rompimento de um cano de água central em um cemitério histório revela um assassinato recente. Constantes discussões levam Booth a sugerir que ele e Brennan procurem um terapeuta para acertarem os ponteiros(n)</desc>
+    <credits>
+      <director>Scott Lautanen</director>
+      <actor>Emily Deschanel</actor>
+      <actor>David Boreanaz</actor>
+      <actor>Michaela Conlin</actor>
+      <actor>George Coe</actor>
+      <actor>Johnny Lewis</actor>
+      <actor>Soren Fulton</actor>
+      <actor>Kelly Lohman</actor>
+      <actor>William Jonathan Georges ..</actor>
+    </credits>
+    <date>2007</date>
+    <episode-num system="onscreen">S2 E17</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20181025173000 -0200" stop="20181025181500 -0200" channel="FOX">
+    <title lang="pt">S.W.A.T.: Octano</title>
+    <desc lang="pt">Hondo autoriza Jim Street a se infiltrar para roubar um traficante implacável. Hondo visita Raymont Harris (Aaron Bledsoe)(n)</desc>
+    <credits>
+      <director>Eagle Egilsson</director>
+      <actor>Jay Harrington</actor>
+      <actor>Shermar Moore</actor>
+      <actor>Stephaine Sigman</actor>
+      <actor>Alex Russell</actor>
+      <actor>Lina Esco</actor>
+      <actor>Aaron Bledsoe</actor>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181025181500 -0200" stop="20181025190000 -0200" channel="FOX">
+    <title lang="pt">Law &amp; Order SVU: Lembrança</title>
+    <desc lang="pt">Stabler e Beck passam por dificuldades para relacionar um advogado a um estupro. Investigando o passado do acusado, os detetives descobrem que o suspeito havia estuprado outra vítima(n)</desc>
+    <credits>
+      <director>Juan José Campanella</director>
+      <actor>Ice -T</actor>
+      <actor>Richard Belzer</actor>
+      <actor>Diane Neal</actor>
+      <actor>Mariska Hargitay</actor>
+      <actor>Christopher Meloni</actor>
+      <actor>B.D. Wong</actor>
+      <actor>Tamara Tunie</actor>
+      <actor>Dann Florek</actor>
+      <actor>Connie Nielsen</actor>
+    </credits>
+    <date>2006</date>
+    <episode-num system="onscreen">S8 E3</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20181025190000 -0200" stop="20181025194500 -0200" channel="FOX">
+    <title lang="pt">Law &amp; Order SVU: Tio</title>
+    <desc lang="pt">Uma mulher e sua filha de dez anos são encontradas estupradas e esquartejadas em seu apartamento. Stabler e Beck investigam o principal suspeito, um homem sem-teto que descobrem ser tio do detetive Munch(n)</desc>
+    <credits>
+      <director>David Platt</director>
+      <actor>Ice -T</actor>
+      <actor>Richard Belzer</actor>
+      <actor>Diane Neal</actor>
+      <actor>Mariska Hargitay</actor>
+      <actor>Christopher Meloni</actor>
+      <actor>B.D. Wong</actor>
+      <actor>Tamara Tunie</actor>
+      <actor>Dann Florek</actor>
+      <actor>Jerry Lewis</actor>
+    </credits>
+    <date>2006</date>
+    <episode-num system="onscreen">S8 E4</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20181025194500 -0200" stop="20181025203000 -0200" channel="FOX">
+    <title lang="pt">Conviction: Pontes e Visão Limitada</title>
+    <desc lang="pt">Hayes enfrenta Wallace, que investiga o caso de sua carreira há dez anos atrás: o Prospect 3. Três jovens brancos confessam o estupro e roubo de uma jovem negra(n)</desc>
+    <credits>
+      <director>Rob Seidenglanz</director>
+      <actor>Eddie Cahill</actor>
+      <actor>Emily Kinney</actor>
+      <actor>Hayley Atwell</actor>
+      <actor>Shawn Ashmore</actor>
+      <actor>Emily Kinney</actor>
+      <actor>Manny Montana</actor>
+      <actor>Bess Armstrong</actor>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181025203000 -0200" stop="20181025211500 -0200" channel="FOX">
+    <title lang="pt">Law &amp; Order SVU: Filadélfia</title>
+    <desc lang="pt">Benson descobre que tem ligações muito próximas com um suspeito de um caso de estupro(n)</desc>
+    <credits>
+      <director>Peter Leto</director>
+      <actor>Ice -T</actor>
+      <actor>Richard Belzer</actor>
+      <actor>Diane Neal</actor>
+      <actor>Mariska Hargitay</actor>
+      <actor>Christopher Meloni</actor>
+      <actor>B.D. Wong</actor>
+      <actor>Tamara Tunie</actor>
+      <actor>Kim Delaney</actor>
+    </credits>
+    <date>2007</date>
+    <episode-num system="onscreen">S8 E16</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20181025211500 -0200" stop="20181025220000 -0200" channel="FOX">
+    <title lang="pt">Law &amp; Order SVU: Pecado</title>
+    <desc lang="pt">Stabler e Benson suspeitam de um carismático pastor em um caso de homicídio. A mulher do religioso acaba indicando um outro suspeito aos detetives(n)</desc>
+    <credits>
+      <director>George Pattison</director>
+      <actor>Ice -T</actor>
+      <actor>Richard Belzer</actor>
+      <actor>Diane Neal</actor>
+      <actor>Mariska Hargitay</actor>
+      <actor>Christopher Meloni</actor>
+      <actor>B.D. Wong</actor>
+      <actor>Tamara Tunie</actor>
+      <actor>Dann Florek</actor>
+      <actor>Tim Daly</actor>
+    </credits>
+    <date>2007</date>
+    <episode-num system="onscreen">S8 E17</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20181025220000 -0200" stop="20181025233000 -0200" channel="FOX">
+    <title lang="pt">Jogo de Amor em Las Vegas</title>
+    <desc lang="pt">Após uma noite de diversão em Las Vegas dois desconhecidos se casam. No dia seguinte eles ganham uma grande quantia no caça-níquel, mas para permanecer com ela precisam provar que são um casal estável(n)</desc>
+    <credits>
+      <director>Tom Vaughan</director>
+      <actor>Cameron Diaz</actor>
+      <actor>Ashton Kutcher</actor>
+      <actor>Rob Corddry</actor>
+      <actor>Lake Bell</actor>
+      <actor>Jason Sudeikis</actor>
+      <actor>Treat Williams</actor>
+      <actor>Deirdre O'Connell</actor>
+      <actor>Michelle Krusiec</actor>
+      <actor>Dennis Farina</actor>
+      <actor>Zach Galifianakis</actor>
+    </credits>
+    <date>2008</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181025233000 -0200" stop="20181026000000 -0200" channel="FOX">
+    <title lang="pt">Law &amp; Order SVU: Filadélfia</title>
+    <desc lang="pt">Benson descobre que tem ligações muito próximas com um suspeito de um caso de estupro(n)</desc>
+    <credits>
+      <director>Peter Leto</director>
+      <actor>Ice -T</actor>
+      <actor>Richard Belzer</actor>
+      <actor>Diane Neal</actor>
+      <actor>Mariska Hargitay</actor>
+      <actor>Christopher Meloni</actor>
+      <actor>B.D. Wong</actor>
+      <actor>Tamara Tunie</actor>
+      <actor>Kim Delaney</actor>
+    </credits>
+    <date>2007</date>
+    <episode-num system="onscreen">S8 E16</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20181026000000 -0200" stop="20181026013000 -0200" channel="FOX">
+    <title lang="pt">O Dia em que a Terra Parou</title>
+    <desc lang="pt">Helen Benson é uma cientista que mantém contato com Klaatu, um alienígena que veio à Terra para alertar sobre uma crise global. Ele deseja conversar com líderes mas por ser considerado hostil, passa a ser ameaçado(n)</desc>
+    <credits>
+      <director>Scott Derrickson</director>
+      <actor>Keanu Reeves</actor>
+      <actor>Jennifer Connely</actor>
+      <actor>Jaden Smith</actor>
+      <actor>John Cleese</actor>
+      <actor>Jon Hamm</actor>
+      <actor>Kyle Chandler</actor>
+      <actor>Robert Knepper</actor>
+      <actor>James Hong</actor>
+    </credits>
+    <date>2008</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20181026013000 -0200" stop="20181026021500 -0200" channel="FOX">
+    <title lang="pt">Emergências Médicas</title>
+    <desc lang="pt">René tenta trabalhar novamente no hospital, mas suas colegas tornam sua vida impossível e ele discute constantemente com seu chefe. Por isso, ele pede ao Dr. Rayo o cargo de chefe da enfermaria(n)</desc>
+    <credits>
+      <director>Herney Luna</director>
+      <actor>Paola Rey</actor>
+      <actor>Rafael Novoa</actor>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S2 E58</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181026021500 -0200" stop="20181026030000 -0200" channel="FOX">
+    <title lang="pt">Emergências Médicas</title>
+    <desc lang="pt">Juan José e Alina saem do hospital ao mesmo tempo. Cardona diz à doutora que lhe deve um convite para jantar, e que essa pode ser a ocasião perfeita para cumprir a promessa(n)</desc>
+    <credits>
+      <director>Herney Luna</director>
+      <actor>Paola Rey</actor>
+      <actor>Rafael Novoa</actor>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S2 E59</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181026030000 -0200" stop="20181026034500 -0200" channel="FOX">
+    <title lang="pt">Emergências Médicas</title>
+    <desc lang="pt">Diego chega à universidade para dar aulas, mas tem uma desagradável surpresa: seu contrato foi cancelado. Depois de averiguar a situação, ele descobre que Martino falou muito mal sobre ele com o reitor(n)</desc>
+    <credits>
+      <director>Herney Luna</director>
+      <actor>Paola Rey</actor>
+      <actor>Rafael Novoa</actor>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S2 E60</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181026034500 -0200" stop="20181026043000 -0200" channel="FOX">
+    <title lang="pt">Emergências Médicas</title>
+    <desc lang="pt">Pinto ameaça Rayo de não o seguir protegendo se ele não o promova no lugar de Carolina, e Rayo resignado lhe dá a autorização(n)</desc>
+    <credits>
+      <director>Herney Luna</director>
+      <actor>Paola Rey</actor>
+      <actor>Rafael Novoa</actor>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S2 E61</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181026043000 -0200" stop="20181026051500 -0200" channel="FOX">
+    <title lang="pt">9-1-1</title>
+    <desc lang="pt">Dos criadores de Glee e American Crime Story, Ryan Murphy e Brad Falchuk, 9-1-1 mostra a pressão do trabalho da polícia, de paramédicos e de bombeiros que são incumbidos de resolver as situações mais assustadoras(n)</desc>
+    <credits>
+      <director>Bradley Buecker</director>
+      <actor>Angela Bassett</actor>
+      <actor>Oliver Stark</actor>
+      <actor>Peter Krause</actor>
+      <actor>Kenneth Choi</actor>
+      <actor>Connie Britton</actor>
+      <actor>Mariette Hartley</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181026051500 -0200" stop="20181026054000 -0200" channel="FOX">
+    <title lang="pt">New Girl</title>
+    <desc lang="pt">Jess faz de tudo para tirar Nick da cabeça quando ele volta mais cedo de seu verão em Nova Orleans. Schmidt e Cece seguem em busca de sua primeira casa e Winston lida com um relacionamento a longa distância com Aly(n)</desc>
+    <credits>
+      <director>Erin O'Malley</director>
+      <actor>Zooey Deschanel</actor>
+      <actor>Jake Johnson</actor>
+      <actor>Max Greenfield</actor>
+      <actor>Lamorne Morris</actor>
+      <actor>Hannah Simone</actor>
+      <actor>Nelson Franklin</actor>
+      <actor>Meaghan Rath</actor>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S6 E1</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181026054000 -0200" stop="20181026060000 -0200" channel="FOX">
+    <title lang="pt">New Girl</title>
+    <desc lang="pt">Jess e Cece se jogam na campanha e apostam com Schmidt que eles podem recrutar eleitores para a próxima eleição presidencial. Enquanto isso, Winston ensina Nick sobre sexo moderno pelo telefone(n)</desc>
+    <credits>
+      <director>Erin O'Malley</director>
+      <actor>Zooey Deschanel</actor>
+      <actor>Jake Johnson</actor>
+      <actor>Max Greenfield</actor>
+      <actor>Lamorne Morris</actor>
+      <actor>Hannah Simone</actor>
+      <actor>Nelson Franklin</actor>
+      <actor>Meaghan Rath</actor>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S6 E2</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181026060000 -0200" stop="20181026063000 -0200" channel="FOX">
+    <title lang="pt">New Girl</title>
+    <desc lang="pt">Quando Schmidt e Cece e Winston e Aly convidam Jess para sua viagem de casais, integrantes de seu grupo de solteiros se integram(n)</desc>
+    <credits>
+      <director>Erin O'Malley</director>
+      <actor>Zooey Deschanel</actor>
+      <actor>Jake Johnson</actor>
+      <actor>Max Greenfield</actor>
+      <actor>Lamorne Morris</actor>
+      <actor>Hannah Simone</actor>
+      <actor>Nelson Franklin</actor>
+      <actor>Meaghan Rath</actor>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S6 E3</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181026063000 -0200" stop="20181026070000 -0200" channel="FOX">
+    <title lang="pt">New Girl</title>
+    <desc lang="pt">Jess e banda vão a Nova York, onde Schmidt crê que será reconhecido em sua ex-escola. Jess ajuda ao Detetive Jake Peralta em um caso(n)</desc>
+    <credits>
+      <director>Erin O'Malley</director>
+      <actor>Zooey Deschanel</actor>
+      <actor>Jake Johnson</actor>
+      <actor>Max Greenfield</actor>
+      <actor>Lamorne Morris</actor>
+      <actor>Hannah Simone</actor>
+      <actor>Nelson Franklin</actor>
+      <actor>Meaghan Rath</actor>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S6 E4</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181026070000 -0200" stop="20181026073000 -0200" channel="FOX">
+    <title lang="pt">Paid Programming</title>
+    <desc lang="pt">Espaço publicitário para divulgação de produtos e serviços(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181026073000 -0200" stop="20181026080000 -0200" channel="FOX">
+    <title lang="pt">Paid Programming</title>
+    <desc lang="pt">Espaço publicitário para divulgação de produtos e serviços(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181026080000 -0200" stop="20181026083000 -0200" channel="FOX">
+    <title lang="pt">Paid Programming</title>
+    <desc lang="pt">Espaço publicitário para divulgação de produtos e serviços(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181026083000 -0200" stop="20181026090000 -0200" channel="FOX">
+    <title lang="pt">Paid Programming</title>
+    <desc lang="pt">Espaço publicitário para divulgação de produtos e serviços(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181026090000 -0200" stop="20181026093000 -0200" channel="FOX">
+    <title lang="pt">Paid Programming</title>
+    <desc lang="pt">Espaço publicitário para divulgação de produtos e serviços(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181026093000 -0200" stop="20181026100000 -0200" channel="FOX">
+    <title lang="pt">Paid Programming</title>
+    <desc lang="pt">Espaço publicitário para divulgação de produtos e serviços(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181026100000 -0200" stop="20181026102500 -0200" channel="FOX">
+    <title lang="pt">Modern Family</title>
+    <desc lang="pt">A família está determinada a fazer com que Alex comemore seu dia de matar aula e Phil, Luke e Haley a levam para passear mas os planos acabam tendo um desvio inesperado(n)</desc>
+    <credits>
+      <director>Ryan Case</director>
+      <actor>Ed O'Neill</actor>
+      <actor>Sofía Vergara</actor>
+      <actor>Julie Bowen</actor>
+      <actor>Ty Burrell</actor>
+      <actor>Jesse Tyler Ferguson</actor>
+      <actor>Eric Stonestreet</actor>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S6 E23</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181026102500 -0200" stop="20181026104500 -0200" channel="FOX">
+    <title lang="pt">Modern Family</title>
+    <desc lang="pt">Toda a família está na casa de Jay e Gloria por conta da festa de formatura de Alex, exceto Phil, que engenhosamente descobriu uma forma de estar presente usando o Skype(n)</desc>
+    <credits>
+      <director>Steven Levitan</director>
+      <actor>Ed O'Neill</actor>
+      <actor>Sofía Vergara</actor>
+      <actor>Julie Bowen</actor>
+      <actor>Ty Burrell</actor>
+      <actor>Jesse Tyler Ferguson</actor>
+      <actor>Eric Stonestreet</actor>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S6 E24</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181026104500 -0200" stop="20181026113000 -0200" channel="FOX">
+    <title lang="pt">Entre Canibais</title>
+    <desc lang="pt">Valmora sai ileso do protesto, mas o conflito entre as duas facções continua latente. Por outro lado, Agustín se encontra com Ariana fora do ambiente de trabalho(n)</desc>
+    <credits>
+      <director>Juan Jose Campanella</director>
+      <actor>Natalia Oreiro</actor>
+      <actor>Benjamin Vicuña</actor>
+      <actor>Joaquin Furriel</actor>
+      <actor>Danny Pardo</actor>
+      <actor>Verónica Pelaccini</actor>
+    </credits>
+    <date>2015</date>
+    <episode-num system="onscreen">S1 E36</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20181026113000 -0200" stop="20181026121500 -0200" channel="FOX">
+    <title lang="pt">Emergências Médicas</title>
+    <desc lang="pt">Beltrán pede a Cindy o histórico médico de Galán para ver seus antecedentes, e nota então o problema de Calixto. Carolina comenta com Diego que Pinto é o novo chefe dos enfermeiros(n)</desc>
+    <credits>
+      <director>Herney Luna</director>
+      <actor>Paola Rey</actor>
+      <actor>Rafael Novoa</actor>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S2 E63</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181026121500 -0200" stop="20181026130000 -0200" channel="FOX">
+    <title lang="pt">Emergências Médicas</title>
+    <desc lang="pt">No supermercado, Diego pede ao Agente González que não entre a força. Carolina, a Sra. Navas e Alfonsín, levam Toño ao fundo, já inconsciente(n)</desc>
+    <credits>
+      <director>Herney Luna</director>
+      <actor>Paola Rey</actor>
+      <actor>Rafael Novoa</actor>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S2 E64</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181026130000 -0200" stop="20181026132000 -0200" channel="FOX">
+    <title lang="pt">Speechless: O-O S-SONHO D-DE J-J</title>
+    <desc lang="pt">Ray se mete em problemas ao inventar um falso evento de caridade para impressionar sua namorada. Maya dá conselhos a Jimmy sobre como ser o chefe e Dylan exige que Kenneth saia do seu espaço(n)</desc>
+    <credits>
+      <director>Christine Gernon</director>
+      <actor>Cedric Yarbrough</actor>
+      <actor>John Ross Bowie</actor>
+      <actor>Minnie Driver</actor>
+      <actor>Mason Cook</actor>
+      <actor>Micah Fowler</actor>
+      <actor>Marin Hinkle</actor>
+      <actor>Liz Cackowski</actor>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181026132000 -0200" stop="20181026134500 -0200" channel="FOX">
+    <title lang="pt">Speechless: D-D-I-A DE T-R-TREINAMENTO</title>
+    <desc lang="pt">Jimmy leva JJ para acampar e assim terem(n)</desc>
+    <credits>
+      <director>Bill Purple</director>
+      <actor>Cedric Yarbrough</actor>
+      <actor>John Ross Bowie</actor>
+      <actor>Minnie Driver</actor>
+      <actor>Mason Cook</actor>
+      <actor>Micah Fowler</actor>
+      <actor>Marin Hinkle</actor>
+      <actor>Liz Cackowski</actor>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181026134500 -0200" stop="20181026143000 -0200" channel="FOX">
+    <title lang="pt">Snapped: She Made me Do It</title>
+    <desc lang="pt">Uma jovem mãe é encontrada brutalmente assassinada num campo de milho e os investigadores descobrem que ela foi flagrada num complexo triângulo amoroso com criminosos profissionais(n)</desc>
+    <credits>
+      <director>Patti Harris</director>
+      <actor>Emily Killian</actor>
+      <actor>Koral Michaels</actor>
+      <actor>Ashley Ahlquist</actor>
+      <actor>Kacey Fifield</actor>
+      <actor>Shayna Gabrielle</actor>
+      <actor>Aaron Groben</actor>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181026143000 -0200" stop="20181026151500 -0200" channel="FOX">
+    <title lang="pt">Private Eyes: O Código de Investigação</title>
+    <desc lang="pt">Shade e Angie são contratados pela advogada Melanie Parker, para investigar subornos a jurados de um caso de assassinato(n)</desc>
+    <credits>
+      <director>Shelley Eriksen</director>
+      <actor>Barry Flatman</actor>
+      <actor>Cindy Sampson</actor>
+      <actor>Jason Priestley</actor>
+      <actor>Mimi Kuzyk</actor>
+      <actor>David Reale</actor>
+      <actor>Tara Mason</actor>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181026151500 -0200" stop="20181026160000 -0200" channel="FOX">
+    <title lang="pt">Emergências Médicas</title>
+    <desc lang="pt">Voltam as histórias do hospital La Esperanza, onde um grupo de médicos de diferentes especialidades trabalham diariamente para salvar a vida dos pacientes que sofrem de casos marcantes(n)</desc>
+    <credits>
+      <director>Herney Luna</director>
+      <actor>Paola Rey</actor>
+      <actor>Rafael Novoa</actor>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S2 E16</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181026160000 -0200" stop="20181026164500 -0200" channel="FOX">
+    <title lang="pt">Bones</title>
+    <desc lang="pt">Booth interrompe as férias de Brennan com Sully a todo momento a fim de obter ajuda no caso de uma mulher que foi encontrada morta - e sem ossos - em um rio. Sully pede para Brennan fugir com ele(n)</desc>
+    <credits>
+      <director>Tony Wharmby</director>
+      <actor>Emily Deschanel</actor>
+      <actor>David Boreanaz</actor>
+      <actor>Michaela Conlin</actor>
+      <actor>Lucille Soong</actor>
+      <actor>Deborah Theaker</actor>
+      <actor>James Hong</actor>
+      <actor>Eddie McClintock</actor>
+      <actor>Alice Lo</actor>
+      <actor>Bob Lem</actor>
+    </credits>
+    <date>2007</date>
+    <episode-num system="onscreen">S2 E16</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20181026164500 -0200" stop="20181026173000 -0200" channel="FOX">
+    <title lang="pt">Bones</title>
+    <desc lang="pt">O rompimento de um cano de água central em um cemitério histório revela um assassinato recente. Constantes discussões levam Booth a sugerir que ele e Brennan procurem um terapeuta para acertarem os ponteiros(n)</desc>
+    <credits>
+      <director>Scott Lautanen</director>
+      <actor>Emily Deschanel</actor>
+      <actor>David Boreanaz</actor>
+      <actor>Michaela Conlin</actor>
+      <actor>George Coe</actor>
+      <actor>Johnny Lewis</actor>
+      <actor>Soren Fulton</actor>
+      <actor>Kelly Lohman</actor>
+      <actor>William Jonathan Georges ..</actor>
+    </credits>
+    <date>2007</date>
+    <episode-num system="onscreen">S2 E17</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20181026173000 -0200" stop="20181026181500 -0200" channel="FOX">
+    <title lang="pt">S.W.A.T.: Octano</title>
+    <desc lang="pt">Hondo autoriza Jim Street a se infiltrar para roubar um traficante implacável. Hondo visita Raymont Harris (Aaron Bledsoe)(n)</desc>
+    <credits>
+      <director>Eagle Egilsson</director>
+      <actor>Jay Harrington</actor>
+      <actor>Shermar Moore</actor>
+      <actor>Stephaine Sigman</actor>
+      <actor>Alex Russell</actor>
+      <actor>Lina Esco</actor>
+      <actor>Aaron Bledsoe</actor>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181026181500 -0200" stop="20181026190000 -0200" channel="FOX">
+    <title lang="pt">Law &amp; Order SVU: Lembrança</title>
+    <desc lang="pt">Stabler e Beck passam por dificuldades para relacionar um advogado a um estupro. Investigando o passado do acusado, os detetives descobrem que o suspeito havia estuprado outra vítima(n)</desc>
+    <credits>
+      <director>Juan José Campanella</director>
+      <actor>Ice -T</actor>
+      <actor>Richard Belzer</actor>
+      <actor>Diane Neal</actor>
+      <actor>Mariska Hargitay</actor>
+      <actor>Christopher Meloni</actor>
+      <actor>B.D. Wong</actor>
+      <actor>Tamara Tunie</actor>
+      <actor>Dann Florek</actor>
+      <actor>Connie Nielsen</actor>
+    </credits>
+    <date>2006</date>
+    <episode-num system="onscreen">S8 E3</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20181026190000 -0200" stop="20181026194500 -0200" channel="FOX">
+    <title lang="pt">Law &amp; Order SVU: Tio</title>
+    <desc lang="pt">Uma mulher e sua filha de dez anos são encontradas estupradas e esquartejadas em seu apartamento. Stabler e Beck investigam o principal suspeito, um homem sem-teto que descobrem ser tio do detetive Munch(n)</desc>
+    <credits>
+      <director>David Platt</director>
+      <actor>Ice -T</actor>
+      <actor>Richard Belzer</actor>
+      <actor>Diane Neal</actor>
+      <actor>Mariska Hargitay</actor>
+      <actor>Christopher Meloni</actor>
+      <actor>B.D. Wong</actor>
+      <actor>Tamara Tunie</actor>
+      <actor>Dann Florek</actor>
+      <actor>Jerry Lewis</actor>
+    </credits>
+    <date>2006</date>
+    <episode-num system="onscreen">S8 E4</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20181026194500 -0200" stop="20181026203000 -0200" channel="FOX">
+    <title lang="pt">Conviction: Pontes e Visão Limitada</title>
+    <desc lang="pt">Hayes enfrenta Wallace, que investiga o caso de sua carreira há dez anos atrás: o Prospect 3. Três jovens brancos confessam o estupro e roubo de uma jovem negra(n)</desc>
+    <credits>
+      <director>Rob Seidenglanz</director>
+      <actor>Eddie Cahill</actor>
+      <actor>Emily Kinney</actor>
+      <actor>Hayley Atwell</actor>
+      <actor>Shawn Ashmore</actor>
+      <actor>Emily Kinney</actor>
+      <actor>Manny Montana</actor>
+      <actor>Bess Armstrong</actor>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181026203000 -0200" stop="20181026211500 -0200" channel="FOX">
+    <title lang="pt">Law &amp; Order SVU: Filadélfia</title>
+    <desc lang="pt">Benson descobre que tem ligações muito próximas com um suspeito de um caso de estupro(n)</desc>
+    <credits>
+      <director>Peter Leto</director>
+      <actor>Ice -T</actor>
+      <actor>Richard Belzer</actor>
+      <actor>Diane Neal</actor>
+      <actor>Mariska Hargitay</actor>
+      <actor>Christopher Meloni</actor>
+      <actor>B.D. Wong</actor>
+      <actor>Tamara Tunie</actor>
+      <actor>Kim Delaney</actor>
+    </credits>
+    <date>2007</date>
+    <episode-num system="onscreen">S8 E16</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20181026211500 -0200" stop="20181026220000 -0200" channel="FOX">
+    <title lang="pt">Law &amp; Order SVU: Pecado</title>
+    <desc lang="pt">Stabler e Benson suspeitam de um carismático pastor em um caso de homicídio. A mulher do religioso acaba indicando um outro suspeito aos detetives(n)</desc>
+    <credits>
+      <director>George Pattison</director>
+      <actor>Ice -T</actor>
+      <actor>Richard Belzer</actor>
+      <actor>Diane Neal</actor>
+      <actor>Mariska Hargitay</actor>
+      <actor>Christopher Meloni</actor>
+      <actor>B.D. Wong</actor>
+      <actor>Tamara Tunie</actor>
+      <actor>Dann Florek</actor>
+      <actor>Tim Daly</actor>
+    </credits>
+    <date>2007</date>
+    <episode-num system="onscreen">S8 E17</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20181026220000 -0200" stop="20181026233000 -0200" channel="FOX">
+    <title lang="pt">Jogo de Amor em Las Vegas</title>
+    <desc lang="pt">Após uma noite de diversão em Las Vegas dois desconhecidos se casam. No dia seguinte eles ganham uma grande quantia no caça-níquel, mas para permanecer com ela precisam provar que são um casal estável(n)</desc>
+    <credits>
+      <director>Tom Vaughan</director>
+      <actor>Cameron Diaz</actor>
+      <actor>Ashton Kutcher</actor>
+      <actor>Rob Corddry</actor>
+      <actor>Lake Bell</actor>
+      <actor>Jason Sudeikis</actor>
+      <actor>Treat Williams</actor>
+      <actor>Deirdre O'Connell</actor>
+      <actor>Michelle Krusiec</actor>
+      <actor>Dennis Farina</actor>
+      <actor>Zach Galifianakis</actor>
+    </credits>
+    <date>2008</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181026233000 -0200" stop="20181027000000 -0200" channel="FOX">
+    <title lang="pt">Law &amp; Order SVU: Filadélfia</title>
+    <desc lang="pt">Benson descobre que tem ligações muito próximas com um suspeito de um caso de estupro(n)</desc>
+    <credits>
+      <director>Peter Leto</director>
+      <actor>Ice -T</actor>
+      <actor>Richard Belzer</actor>
+      <actor>Diane Neal</actor>
+      <actor>Mariska Hargitay</actor>
+      <actor>Christopher Meloni</actor>
+      <actor>B.D. Wong</actor>
+      <actor>Tamara Tunie</actor>
+      <actor>Kim Delaney</actor>
+    </credits>
+    <date>2007</date>
+    <episode-num system="onscreen">S8 E16</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20181027000000 -0200" stop="20181027010000 -0200" channel="FOX">
+    <title lang="pt">Central Fox - Ao Vivo</title>
+    <desc lang="pt">José Ilan, Marina Ferrari, Edu Elias, Karine Alves, Daniela Boaventura e Felipe Motta comandam o programa que traz diariamente os gols dos melhores campeonatos, reportagens especiais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181027010000 -0200" stop="20181027024500 -0200" channel="FOX">
+    <title lang="pt">Campeonato Brasileiro</title>
+    <desc lang="pt">No Fox Sports, você acompanha na íntegra as partidas do mais importante campeonato nacional de futebol(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181027024500 -0200" stop="20181027043000 -0200" channel="FOX">
+    <title lang="pt">VT - Huesca x Espanyol</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181027043000 -0200" stop="20181027050000 -0200" channel="FOX">
+    <title lang="pt">Tabelão FOX Sports</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181027050000 -0200" stop="20181027051500 -0200" channel="FOX">
+    <title lang="pt">Filler</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181027051500 -0200" stop="20181027070000 -0200" channel="FOX">
+    <title lang="pt">VT - Betis x Valladolid</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181027070000 -0200" stop="20181027090000 -0200" channel="FOX">
+    <title lang="pt">A Última Palavra</title>
+    <desc lang="pt">Nivaldo Prieto e os talentos do Fox Sports fecham a rodada com as principais polêmicas e debates de tudo que aconteceu no mundo do esporte durante o final de semana(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181027090000 -0200" stop="20181027120000 -0200" channel="FOX">
+    <title lang="pt">Bom Dia Fox - Ao Vivo</title>
+    <desc lang="pt">Luciano Calheiros e Livia Nepomuceno trazem com leveza as primeiras notícias do dia sempre com um comentarista do canal, tal como Nadine Bastos, Fábio Sormani ou Osvaldo Pascoal(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181027120000 -0200" stop="20181027124500 -0200" channel="FOX">
+    <title lang="pt">Central Fox - Ao Vivo</title>
+    <desc lang="pt">José Ilan, Marina Ferrari, Edu Elias, Karine Alves, Daniela Boaventura e Felipe Motta comandam o programa que traz diariamente os gols dos melhores campeonatos, reportagens especiais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181027124500 -0200" stop="20181027153000 -0200" channel="FOX">
+    <title lang="pt">Fox Sports Rádio - Ao Vivo</title>
+    <desc lang="pt">Bom humor, opinião entrevistas exclusivas são as marcas do(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181027153000 -0200" stop="20181027173000 -0200" channel="FOX">
+    <title lang="pt">Boa Tarde Fox - Ao Vivo</title>
+    <desc lang="pt">Nivaldo Prieto e Helena Calil comandam o(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181027173000 -0200" stop="20181027200000 -0200" channel="FOX">
+    <title lang="pt">Expediente Futebol - Ao Vivo</title>
+    <desc lang="pt">O nosso u0027happy houru0027do futebol é comandado pelo apresentador João Guilherme. Todos os destaques da rodada com muito foco, detalhes e discussões aprofundadas(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181027200000 -0200" stop="20181027213000 -0200" channel="FOX">
+    <title lang="pt">Central Fox - Ao Vivo</title>
+    <desc lang="pt">José Ilan, Marina Ferrari, Edu Elias, Karine Alves, Daniela Boaventura e Felipe Motta comandam o programa que traz diariamente os gols dos melhores campeonatos, reportagens especiais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181027213000 -0200" stop="20181027233000 -0200" channel="FOX">
+    <title lang="pt">Jogo Sagrado - Ao Vivo</title>
+    <desc lang="pt">Liderado por Benjamin Back, novo programa que mistura esporte e humor, contará ainda com a participação do radialista e comediante stand up Rudy Landucci para reforçar a equipe do programa(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181027233000 -0200" stop="20181028004500 -0200" channel="FOX">
+    <title lang="pt">Central Fox - Ao Vivo</title>
+    <desc lang="pt">José Ilan, Marina Ferrari, Edu Elias, Karine Alves, Daniela Boaventura e Felipe Motta comandam o programa que traz diariamente os gols dos melhores campeonatos, reportagens especiais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181028004500 -0200" stop="20181028024500 -0200" channel="FOX">
+    <title lang="pt">A Última Palavra</title>
+    <desc lang="pt">Nivaldo Prieto e os talentos do Fox Sports fecham a rodada com as principais polêmicas e debates de tudo que aconteceu no mundo do esporte durante o final de semana(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181028024500 -0200" stop="20181028054500 -0200" channel="FOX">
+    <title lang="pt">Nascar Monster Energy: Kansas</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181028054500 -0200" stop="20181028061500 -0200" channel="FOX">
+    <title lang="pt">Resumo da NBB</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181028061500 -0200" stop="20181028064500 -0200" channel="FOX">
+    <title lang="pt">Tabelão FOX Sports</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181028064500 -0200" stop="20181028070000 -0200" channel="FOX">
+    <title lang="pt">Filler</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181028070000 -0200" stop="20181028084500 -0200" channel="FOX">
+    <title lang="pt">Campeonato Brasileiro</title>
+    <desc lang="pt">No Fox Sports, você acompanha na íntegra as partidas do mais importante campeonato nacional de futebol(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181028084500 -0200" stop="20181028093000 -0200" channel="FOX">
+    <title lang="pt">WWE Vintage</title>
+    <desc lang="pt">O WWE é a principal organização de Pro Wrestling no mundo e reúne as maiores estrelas da modalidade em fantásticos combates de tirar o fôlego(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181028093000 -0200" stop="20181028103000 -0200" channel="FOX">
+    <title lang="pt">WWE RAW</title>
+    <desc lang="pt">O WWE é a principal organização de Pro Wrestling no mundo e reúne as maiores estrelas da modalidade em fantásticos combates de tirar o fôlego(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181028103000 -0200" stop="20181028113000 -0200" channel="FOX">
+    <title lang="pt">WWE Main Event</title>
+    <desc lang="pt">O WWE é a principal organização de Pro Wrestling no mundo e reúne as maiores estrelas da modalidade em fantásticos combates de tirar o fôlego(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181028113000 -0200" stop="20181028130000 -0200" channel="FOX">
+    <title lang="pt">WWE Smackdown</title>
+    <desc lang="pt">O WWE é a principal organização de Pro Wrestling no mundo e reúne as maiores estrelas da modalidade em fantásticos combates de tirar o fôlego(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181028130000 -0200" stop="20181028131500 -0200" channel="FOX">
+    <title lang="pt">Filler</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181028131500 -0200" stop="20181028150000 -0200" channel="FOX">
+    <title lang="pt">Campeonato Brasileiro</title>
+    <desc lang="pt">No Fox Sports, você acompanha na íntegra as partidas do mais importante campeonato nacional de futebol(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181028150000 -0200" stop="20181028164500 -0200" channel="FOX">
+    <title lang="pt">VT - Cruzeiro x Corinthians</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181028164500 -0200" stop="20181028181500 -0200" channel="FOX">
+    <title lang="pt">Liga ACB: Obradoiro x Valencia</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181028181500 -0200" stop="20181028191500 -0200" channel="FOX">
+    <title lang="pt">Aqui Com Benja</title>
+    <desc lang="pt">Benjamin Back recebe personalidades do mundo esportivo para um papo descontraído e revelador(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181028191500 -0200" stop="20181028210000 -0200" channel="FOX">
+    <title lang="pt">Campeonato Brasileiro</title>
+    <desc lang="pt">No Fox Sports, você acompanha na íntegra as partidas do mais importante campeonato nacional de futebol(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181028210000 -0200" stop="20181029002000 -0200" channel="FOX">
+    <title lang="pt">WWE RAW - Ao Vivo</title>
+    <desc lang="pt">O WWE é a principal organização de Pro Wrestling no mundo e reúne as maiores estrelas da modalidade em fantásticos combates de tirar o fôlego(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+</tv>
